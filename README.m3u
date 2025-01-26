@@ -1,51 +1,27 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1
-
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-
 #EXTINF:0 type="stream" channelId="962" group-title="Ulusal" logo="https://i.ibb.co/n1SCYqN/atv.png", ATV
-
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-
 #EXTINF:0 type="stream" channelId="1044" group-title="Ulusal" logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D
-
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR
-
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="Ulusal" logo="https://i.ibb.co/BrGNZJ4/showtv.png", SHOW
-
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
 #EXTINF:0 type="stream" channelId="1082" group-title="Ulusal" logo="https://i.ibb.co/0tc3PYz/beyaz22b.png", BEYAZ TV
-
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
 #EXTINF:0 type="stream" channelId="1057" group-title="Ulusal" logo="https://i.ibb.co/1s3fHfm/k7tr1.png", KANAL 7
-
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
 #EXTINF:-1 type="stream" channelId="1076" group-title="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
-
 http://stream.tvcdn.net/ulusal/tv8.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="Ulusal" logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
-
 https://c.fulltvizle.com/fox/index.m3u8
-
 #EXTINF:-1 tvg-name="Trt 4K "tvg-id=""tvg-logo="https://i.hizliresim.com/gjtt3lg.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT  4K 
-
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
-
 #EXTINF:0 type="stream" channelId="-1" group="Haber" logo="https://i.ibb.co/ZXts607/ulketv.png", ULKE
-
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="1080" group="Haber" logo="https://i.ibb.co/Bt6frts/trthaber.png", TRT HABER
-
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="A Haber"tvg-id="Haber_AHaber"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="Haber":http-referrer="":http-user-agent="",A Haber
