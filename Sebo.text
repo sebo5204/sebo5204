@@ -169,17 +169,11 @@ https://tv.prectv5.sbs/live/bsstars.m3u8
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/258883.ts
 #EXTINF:-1 tvg-name="Global Box Yerli Film FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/939ex3a.png"group-title="Sinema":http-referrer="":http-user-agent="",Global Box Yerli Film FHD
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/258888.ts
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/58659.ts
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/52977.ts
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/311552.ts
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/315720.ts
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/7042.ts
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
