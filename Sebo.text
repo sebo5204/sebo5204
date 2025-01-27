@@ -82,9 +82,9 @@ https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Spor" logo="https://i.ibb.co/dgj3MTh/tv85.png", TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:0 type="stream" channelId="-1" group-title="Çocuk" logo="https://i.ibb.co/8g20RBH/ebatek.png", TRT EBA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="ÇizgiFilm" logo="https://i.ibb.co/8g20RBH/ebatek.png", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Muzik" logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png", TRT MUZIK
+#EXTINF:0 type="stream" channelId="-1" group-title="Müzik" logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png", TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Müzik" logo="https://i.ibb.co/6401NQw/kraltv.png", KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
@@ -114,41 +114,41 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Müzik" logo="https://i.ibb.co/VLQ6cmV/plove.png", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1054" logo="https://i.ibb.co/xzZk0Yq/trtavaz.png", TRT AVAZ
+#EXTINF:0 type="stream" channelId="1054" group-title="tryerel" logo="https://i.ibb.co/xzZk0Yq/trtavaz.png", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="989" logo="https://i.ibb.co/swtn1kV/trtturk.png", TRT TURK
+#EXTINF:0 type="stream" channelId="989" group-title="tryerel" logo="https://i.ibb.co/swtn1kV/trtturk.png", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="3083" logo="https://i.ibb.co/X7zxL8v/knlb.png", KANAL B
+#EXTINF:0 type="stream" channelId="3083" group-title="tryerel" logo="https://i.ibb.co/X7zxL8v/knlb.png", KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL S SAMSUN
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL S SAMSUN
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL URFA
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL URFA
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL V ANTALYA
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL V ANTALYA
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL Z ZONGULDAK
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL Z ZONGULDAK
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", ORDU BEL TV
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TEMPO TV
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TH HABER
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TH HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 ADANA
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 ADANA
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TOKAT TV
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TOKAT TV
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRABZON TV
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRABZON TV
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/trabzontv.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRAKYA TURK
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRAKYA TURK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TURHAL WEB TV
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TURHAL WEB TV
 http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 KAYSERi
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 KAYSERi
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 52 ORDU
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 52 ORDU
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", Turkmeneli tv
+#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", Turkmeneli tv
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id=""tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
