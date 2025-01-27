@@ -52,6 +52,8 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-name="TV 4 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/t3Y6xchQ78uqapvoIjVTxgTMUZr0lIjZDWL_7bLrx8ki_6nmDCsvZwjJ9pDw80nS9uE=w240-h480-rw" group-title="Ulusal":http-referrer="":http-user-agent="",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-name="ATV 2 "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/7OsZQFhc7xtJKYvTqZKRQBYcBhUSpsYYqD4Z92WKRTlP1XPqaOt5z9sziyiT2kpGTuvHX7ER=s900-c-k-c0x00ffffff-no-rj"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 2
+https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="3040" logo="https://i.ibb.co/1Z22dCY/teve2.png", TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4632" logo="https://i.ibb.co/kxjKk89/showmax.png", SHOW MAX
