@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-name="ATV"tvg-id=""tvg-logo="https://img.ulusal.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2022/10/06/806x378-atv-canli-izle-hd-kesintisiz-atv-yayin-akisi-bugun-atv-dizileri-ve-programlari-canli-yayin-tikla-izle-1647693994485-1665003460.jpg" group-title="Ulusal" logo="https://i.ibb.co/n1SCYqN/atv.png", ATV
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal" logo="https://i.ibb.co/n1SCYqN/atv.png", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:0 type="stream" channelId="1044" group-title="Ulusal" logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
