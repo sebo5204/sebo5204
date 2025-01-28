@@ -10,15 +10,15 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Ulusal", SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0 type="stream" channelId="1082" group-title="Ulusal" logo="https://i.ibb.co/0tc3PYz/beyaz22b.png", BEYAZ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png"group-title="Ulusal", BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0 type="stream" channelId="1057" group-title="Ulusal" logo="https://i.ibb.co/1s3fHfm/k7tr1.png", KANAL 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png"group-title="Ulusal", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 type="stream" channelId="1076" group-title="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"group-title="Ulusal", TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Ulusal" logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
 https://c.fulltvizle.com/fox/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Haber" logo="https://i.ibb.co/ZXts607/ulketv.png", ULKE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1080" group-title="Haber" logo="https://i.ibb.co/Bt6frts/trthaber.png", TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
