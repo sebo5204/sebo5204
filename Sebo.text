@@ -117,6 +117,10 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png"group-title="Müzik", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png"group-title="tryerel, Toppop TV
+http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png"group-title="tryerel, Tempo TV
+http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
 #EXTINF:0 type="stream" channelId="1054" group-title="tryerel" logo="https://i.ibb.co/xzZk0Yq/trtavaz.png", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="989" group-title="tryerel" logo="https://i.ibb.co/swtn1kV/trtturk.png", TRT TURK
@@ -141,8 +145,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TOKAT TV
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRABZON TV
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/trabzontv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRAKYA TURK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 KAYSERi
