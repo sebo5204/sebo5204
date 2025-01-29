@@ -131,8 +131,8 @@ https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", KANAL Z ZONGULDAK
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", ORDU BEL TV
-https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png"group-title"tryerel", Ordu BB TV
+http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TH HABER
@@ -145,12 +145,10 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/trabzontv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TRAKYA TURK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TURHAL WEB TV
-http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 1 KAYSERi
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", TV 52 ORDU
-http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png"group-title"tryerel", TV 52
+http://stream.tvcdn.net/yerel/tv-52.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="tryerel" logo="https://i.ibb.co/mHt7rQf/Tryerel.png", Turkmeneli tv
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Turk
