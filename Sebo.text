@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
