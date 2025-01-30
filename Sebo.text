@@ -97,7 +97,8 @@ http://stream.tvcdn.net/muzik/dream-turk.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png"group-title="Müzik", POWER TURK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="MÃ¼zik",Milyon TV http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="MÃ¼zik",Milyon TV 
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png"group-title="Müzik", TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png"group-title="Müzik", POWER TURK TAPTAZE
