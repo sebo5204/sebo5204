@@ -135,6 +135,10 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 http://stream.tvcdn.net/yerel/cay-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png" group-title="tryerel", KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" group-title="tryerel",Kanal Avrupa
+http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1d2b5e56-806f-43b7-b303-d5d96ebe257c.png" group-title="tryerel",Kanal S
+http://stream.tvcdn.net/yerel/kanal-s.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", KANAL URFA
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", KANAL V ANTALYA
