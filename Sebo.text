@@ -77,6 +77,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor", HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" group-title="Spor",Tivibu Spor
+https://cinque.c53af06fa4e55583.click/p/canlimaclar2837.sbs/605/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Spor", FENERBAHÇE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
