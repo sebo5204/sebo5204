@@ -163,10 +163,6 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 http://stream.tvcdn.net/yerel/tv-52.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", Turkmeneli tv
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-logo.png"group-title="Sinema":,Sinema Yerli
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432486 
-#EXTINF:-1 tvg-logo="http://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-logo.png"group-title="Sinema":,Sinema Yerli 2
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432485
 #EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
