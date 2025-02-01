@@ -163,17 +163,17 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 http://stream.tvcdn.net/yerel/tv-52.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", Turkmeneli tv
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema",Bein Movies Turk
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
-#EXTINF:-1 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema",Moviesmart Türk
+#EXTINF:-1 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
 https://tv.prectv5.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png"group-title="Sinema",Beinbox Office 3
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Beinbox Office 3
 https://tv.prectv5.sbs/live/box3.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg"group-title="Sinema",FX
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Sinema",FX
 https://tv.prectv5.sbs/live/fx.m3u8
-#EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema",Bein Movies premiere
+#EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies premiere
 https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo="data:image/png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
