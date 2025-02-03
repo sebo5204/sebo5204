@@ -256,6 +256,9 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-logo.png" group-title="Sinema", Sinema Yerli 
 http://bd33.xyz:80/BAP6MJG/TQRZ058/82454
 
+#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="sinema", bein Movies Turk
+http://bd33.xyz:80/BAP6MJG/TQRZ058/39596
+
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
 https://tv.prectv5.sbs/live/box1.m3u8
 
