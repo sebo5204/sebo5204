@@ -110,7 +110,7 @@ https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Spor", A SPOR 
-https://tv.prectv5.sbs/live/foxtvaspor.m3u8
+https://tv.prectv5.sbs/live/aspor.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor", HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
