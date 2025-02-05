@@ -263,10 +263,10 @@ http://bd33.xyz:80/BAP6MJG/TQRZ058/39596
 #EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", Bein Series 1
 http://bd33.xyz:80/BAP6MJG/TQRZ058/65125
 
-#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="sinema", Movies Best 2 tv
+#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", Movies Best 2 tv
 http://bd33.xyz:80/BAP6MJG/TQRZ058/82461
 
-#EXTINF:0 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="sinema", Movi Smart Turk
+#EXTINF:0 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema", Movi Smart Turk
 http://bd33.xyz:80/BAP6MJG/TQRZ058/82426
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
@@ -283,8 +283,6 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 https://due.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/606/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
@@ -316,7 +314,7 @@ https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c
 #EXTINF:-1 x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max 1
 https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/805/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png"  group-title="Spor",beIN SPORTS Max 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
 https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/806/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
