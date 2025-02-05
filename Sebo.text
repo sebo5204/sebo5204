@@ -259,6 +259,15 @@ http://bd33.xyz:80/BAP6MJG/TQRZ058/82454
 #EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", bein Movies Turk
 http://bd33.xyz:80/BAP6MJG/TQRZ058/39596
 
+#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", Bein Series 1
+http://bd33.xyz:80/BAP6MJG/TQRZ058/65125
+
+#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="sinema", Movies Best 2 tv
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82461
+
+#EXTINF:0 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="sinema", Movi Smart Turk
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82426
+
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
 https://tv.prectv5.sbs/live/box1.m3u8
 
@@ -274,11 +283,7 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="Sinema",King Box Yerli Film FHD
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/258883.ts
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="Sinema",Global Box Yerli Film FHD
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/258888.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 https://due.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/606/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
