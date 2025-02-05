@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+https://tv.prectv5.sbs/live/atv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
 https://tv.prectv5.sbs/live/kanald.m3u8
