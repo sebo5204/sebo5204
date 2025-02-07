@@ -7,7 +7,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://c.fulltvizle.com/kanald/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
