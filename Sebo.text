@@ -82,6 +82,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Eğlence",isvicre TV
+http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",ATV 2
 https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 
