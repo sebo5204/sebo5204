@@ -44,7 +44,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 https://c.fulltvizle.com/cnnturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber", HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber", NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
