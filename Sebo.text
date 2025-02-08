@@ -41,7 +41,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 #EXTINF:0 tvg-name="CNN Türk"tvg-id="Haber_CNNTurk"tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber", HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
