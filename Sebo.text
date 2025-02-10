@@ -293,6 +293,12 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
 
+#EXTINF:15 group-title="SİNEMA",SİNEMA YERLİ
+http://spy17.eu:80/live/ozkanshmx/06.02.22/13267.ts 
+
+#EXTINF:16 group-title="SİNEMA",SİNEMA YERLİ 2
+http://spy17.eu:80/live/ozkanshmx/06.02.22/29588.ts
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 https://due.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/606/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
 
