@@ -85,6 +85,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Eğlence",isvicre TV
 http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Eğlence",Sudurağı TV
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",ATV 2
 https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
 
