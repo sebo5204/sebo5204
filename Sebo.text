@@ -24,7 +24,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
 http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
 
@@ -292,6 +291,9 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
+
+#EXTINF:4 group-title="SİNEMA",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:9 group-title="SİNEMA",MOVIE SMART TURK
 http://lb.wisp.cat/lb0/TR_MOVIETURK/video.m3u8?token=9bmCmR7
