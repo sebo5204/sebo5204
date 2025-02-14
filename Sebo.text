@@ -25,7 +25,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
-http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -86,6 +86,15 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Eğlence",Sudurağı TV
 http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/li4kIJdyxs4/hqdefault.jpg" group-title="Eğlence",Yeşil Çam
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hqdefault.jpg" group-title="Eğlence",Kemal Sunal
+https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PTp6hmibGSc/hqdefault.jpg" group-title="Eğlence",Şener Şen
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",ATV 2
 https://tgn.bozztv.com/dvrfl05/gin-atva2/index.m3u8
