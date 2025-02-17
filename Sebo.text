@@ -271,21 +271,6 @@ https://tv.prectv5.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-logo.png" group-title="Sinema", Sinema Yerli 
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82454
-
-#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", bein Movies Turk
-http://bd33.xyz:80/BAP6MJG/TQRZ058/39596
-
-#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", Bein Series 1
-http://bd33.xyz:80/BAP6MJG/TQRZ058/65125
-
-#EXTINF:0 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema", Movies Best 2 tv
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82461
-
-#EXTINF:0 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema", Movi Smart Turk
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82426
-
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
 https://tv.prectv5.sbs/live/box1.m3u8
 
