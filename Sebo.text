@@ -25,7 +25,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
-http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -341,7 +341,7 @@ http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW Yedek
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
