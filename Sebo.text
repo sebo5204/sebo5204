@@ -87,13 +87,13 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Eğlence",Sudurağı TV
 http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/li4kIJdyxs4/hqdefault.jpg" group-title="Eğlence",Yeşil Çam
+#EXTINF:0 group-title="Eğlence",Yeşil Çam
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hqdefault.jpg" group-title="Eğlence",Kemal Sunal
+#EXTINF:0 group-title="Eğlence",Kemal Sunal
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PTp6hmibGSc/hqdefault.jpg" group-title="Eğlence",Şener Şen
+#EXTINF:0 group-title="Eğlence",Şener Şen
 https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",ATV 2
