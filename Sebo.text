@@ -349,10 +349,10 @@ http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW Yedek
+#EXTINF:0 group-title="Ulusal", NOW Yedek
 http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
+#EXTINF:0 group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
 
