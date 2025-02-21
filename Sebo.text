@@ -337,7 +337,10 @@ https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
 #EXTINF:0 group-title="Spor" , Bein Sports 1
 https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinzirve.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS (Selçuk spor)
+#EXTINF:0 group-title="Spor" , Bein Sports 1 (İnat Tv)
+https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayininat.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd
+
+#EXTINF:-1  group-title="Spor",beIN SPORTS (Selçuk spor)
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
