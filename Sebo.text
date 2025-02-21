@@ -307,32 +307,32 @@ https://v.arectv11.sbs/static/tabi2.m3u8
 #EXTINF:4 group-title="Spor",TABİİSPOR 3 TV
 https://v.arectv11.sbs/static/tabi3.m3u8
 
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
+#EXTINF:0 group-title="Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
+#EXTINF:0 group-title="Spor",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-1-logo.png" group-title="Spor",beIN SPORTS 
+#EXTINF:0 group-title="Spor",beIN SPORTS 
 https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/601/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-1-logo.png" group-title="Spor",beIN SPORTS 
+#EXTINF:0 group-title="Spor",beIN SPORTS 
 https://r7hzhpnlar.zortspor1.online/601/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-1-logo.png" group-title="Spor",beIN SPORTS 
+#EXTINF:0 group-title="Spor",beIN SPORTS 
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-2-logo.png" group-title="Spor",beIN SPORTS 2
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
+#EXTINF:0 group-title="Spor",beIN SPORTS 2
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb2.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-3-logo.png" group-title="Spor",beIN SPORTS 3
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
+#EXTINF:0 group-title="Spor",beIN SPORTS 3
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb3.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-4-logo.png" group-title="Spor",beIN SPORTS 4
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
+#EXTINF:0 group-title="Spor",beIN SPORTS 4
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb4.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb5.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor" , Bein Sports 1
 https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinzirve.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
