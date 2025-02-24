@@ -146,7 +146,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TV8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Spor", TV8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
