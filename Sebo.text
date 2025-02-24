@@ -114,7 +114,7 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1tvg-name="CARTOON NETWORK TR" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_CARTOONNETWORKTR" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇizgiFilm", CARTOON NETWORK TR
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilmCartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
+#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 
@@ -148,61 +148,61 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Spor", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
+#EXTINF:-1 tvg-name="TRT EBA TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Çizgifilm_TRTEBATV" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik", TRT MUZIK
+#EXTINF:-1 tvg-name="TRT MUZIK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_TRTMUZIK" tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik", TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Müzik", Kral Pop TV
+#EXTINF:-1 tvg-name="Kral Pop Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_KralPopTv" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Müzik", Kral Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik", Dream Türk
+#EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_DreamTürk" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik", Dream Türk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TURK
+#EXTINF:-1 tvg-name="NUMBER ONE TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik", POWER TURK
+#EXTINF:-1 tvg-name="POWER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik", POWER TURK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
+#EXTINF:-1 tvg-name="TATLISES" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
+#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKTAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="Müzik", POWER TURK SLOW
+#EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKSLOW" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="Müzik", POWER TURK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik", POWER TURK AKUSTIK
+#EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKAKUSTIK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik", POWER TURK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Müzik", NUMBER ONE TURK ASK
+#EXTINF:-1 tvg-name="NUMBER ONE TURK ASK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKASK" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Müzik", NUMBER ONE TURK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik", NUMBER ONE TURK DAMAR
+#EXTINF:-1 tvg-name="NUMBER ONE TURK DAMAR" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKDAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik", NUMBER ONE TURK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="Müzik", NUMBER ONE
+#EXTINF:-1 tvg-name="NUMBER ONE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="Müzik", NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="Müzik", POWER TV
+#EXTINF:-1 tvg-name="POWER TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTV" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="Müzik", POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="Müzik", POWER DANCE
+#EXTINF:-1 tvg-name="POWER DANCE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERDANCE" tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="Müzik", POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="Müzik", POWER LOVE
+#EXTINF:-1 tvg-name="POWER LOVE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERLOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="Müzik", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
+#EXTINF:-1 tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_SlowKaradeniz" tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
+#EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png" group-title="tryerel", Toppop TV
