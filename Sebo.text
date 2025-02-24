@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TRT 1 TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_TRT1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-name="TRT 1 TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_TRT1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV
