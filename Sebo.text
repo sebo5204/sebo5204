@@ -97,7 +97,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 
 #EXTINF:-1 tvg-name="ATV 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_ATV2" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",ATV 2
-https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
+http://89.187.191.41/A2-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_TEVE2" tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="Eğlence", TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
