@@ -374,8 +374,8 @@ http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:0 group-title="Ulusal", NOW Yedek
-http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:0 group-title="Ulusal", A para
+http://185.234.111.229:8000/play/a01l
 
 #EXTINF:0 group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
