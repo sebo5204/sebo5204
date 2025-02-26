@@ -327,6 +327,15 @@ https://v.arectv11.sbs/static/tabi2.m3u8
 #EXTINF:4 group-title="Spor",TABİİSPOR 3 TV
 https://v.arectv11.sbs/static/tabi3.m3u8
 
+#EXTINF:0 group-title="Spor",TIVIBU SPOR 1
+https://serveranon1.online:8443/711/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Spor",TIVIBU SPOR 2
+https://serveranon1.online:8443/712/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Spor",TIVIBU SPOR 3
+https://serveranon1.online:8443/713/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
