@@ -339,7 +339,6 @@ https://v.arectv11.sbs/static/bs1.m3u8
 #EXTINF:0 group-title="Spor",beIN SPORTS
 https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 
-
 #EXTINF:-1 tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", Bein Sport 1
 #EXTVLCOPT:http-referrer=
 https://serveranon1.online:8443/701/tracks-v1a1/mono.m3u8
@@ -357,7 +356,7 @@ https://serveranon1.online:8443/703/tracks-v1a1/mono.m3u8
 https://serveranon1.online:8443/704/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Spor",beIN SPORTS 5
-https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinbs5.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinbs2.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSports1" group-title="Spor" , Bein Sports 1
 https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinzirve.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
