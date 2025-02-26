@@ -346,7 +346,7 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 https://serveranon1.online:8443/707/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Spor",beIN SPORTS 
-https://v.arectv11.sbs/static/bs1.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://derbi.raventv12.live/yayinzirve.m3u8&a=&aa=derbi.raventv12.live/
 
 #EXTINF:0 group-title="Spor",beIN SPORTS
 https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
