@@ -163,17 +163,17 @@ https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_DreamTürk" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik", Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NUMBER ONE TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TURK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="POWER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik", POWER TURK
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TATLISES" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKTAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
@@ -184,9 +184,6 @@ http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKAKUSTIK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik", POWER TURK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NUMBER ONE TURK ASK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKASK" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Müzik", NUMBER ONE TURK ASK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="NUMBER ONE TURK DAMAR" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKDAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik", NUMBER ONE TURK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
@@ -196,17 +193,14 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-name="POWER TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTV" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="Müzik", POWER TV
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POWER DANCE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERDANCE" tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="Müzik", POWER DANCE
-http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERLOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="Müzik", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
 #EXTINF:-1 tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_SlowKaradeniz" tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 #EXTINF:-1 tvg-name="Toppop TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_ToppopTV" tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png" group-title="Müzik", Toppop TV
 http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
