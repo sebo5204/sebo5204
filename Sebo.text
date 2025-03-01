@@ -166,7 +166,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_POWERTURK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" grup-title="Müzik", POWER TURK
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NUMBER BİR TÜRK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" grup-title="Müzik", BİR TÜRK
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" grup-title="Müzik", NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TATLISES" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" grup-title="Müzik", TATLISES
@@ -184,7 +184,7 @@ http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKAKUSTIK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik", POWER TURK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NUMBER BİR TÜRK DAMAR" tvg-language="Türkçe" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKDAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" grup-title="Müzik", BİR TÜRK DAMARASI
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DAMAR" tvg-language="Türkçe" tvg-country="TR" tvg-id="Müzik_NUMBERONETURKDAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" grup-title="Müzik", NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NUMBER ONE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="Müzik", NUMBER ONE
