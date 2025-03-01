@@ -9,7 +9,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_KANALD" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 
-#EXTINF:-1 tvg-name="STAR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_STAR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR
+#EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_STARTR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="SHOW" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOW" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW
@@ -72,7 +72,7 @@ http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_TRT2" tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" grup-title="Eğlence", TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_DMAX" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" grup-title="Eğlence", DMAX
+#EXTINF:-1 tvg-name="DMAX TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_DMAXTR" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" grup-title="Eğlence", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 tvg-name="TLC TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_TLCTR" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" grup-title="Eğlence", TLC TR
