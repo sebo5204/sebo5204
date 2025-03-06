@@ -106,11 +106,7 @@ https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_SHOWMAX" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="Eğlence", SHOW MAX
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=1280x720
-https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1741257322&st=WCWB0g1wxh1sP9aRQDmRDg&tv=1
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 
 #EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_TRTÇOCUK" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇizgiFilm", TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
