@@ -64,7 +64,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://canlitvulusal.xyz/live/apara/index.m3u8
 
 #EXTINF:-1 tvg-name="CNBC-E" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" grup-title="Eğlence", CNBC-E
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
+http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=e87de4c595e150f97239f6e9af960616
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRTBELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" grup-title="Belgesel", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
