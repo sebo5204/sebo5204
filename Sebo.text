@@ -63,6 +63,9 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-name="A PARA HD" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" grup-title="Haber", A PARA HD
 https://canlitvulusal.xyz/live/apara/index.m3u8
 
+#EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CNBC-E" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" grup-title="Eğlence", CNBC-E
 http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=e87de4c595e150f97239f6e9af960616
 
