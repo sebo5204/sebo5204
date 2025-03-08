@@ -325,13 +325,13 @@ https://v.arectv11.sbs/static/tabi2.m3u8
 https://v.arectv11.sbs/static/tabi3.m3u8
 
 #EXTINF:0 group-title="Spor",TIVIBU SPOR 1
-https://serveranon1.online:8443/711/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayint1.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",TIVIBU SPOR 2
-https://serveranon1.online:8443/712/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayint2.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",TIVIBU SPOR 3
-https://serveranon1.online:8443/713/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayint3.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
@@ -340,7 +340,7 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 #EXTINF:0 group-title="Spor",SMART SPORT
-https://serveranon1.online:8443/707/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinsmarts.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",beIN SPORTS
 https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
@@ -355,17 +355,17 @@ https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/y
 
 #EXTINF:-1 tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport3" group-title="Spor", Bein Sport 3
 #EXTVLCOPT:http-referrer=
-https://serveranon1.online:8443/703/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb3.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
 #EXTVLCOPT:http-referrer=
-https://serveranon1.online:8443/704/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb4.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",beIN SPORTS max 1
-https://serveranon1.online:8443/716/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinbm1.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:0 group-title="Spor",beIN SPORTS max 2
-https://serveranon1.online:8443/717/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinbm2.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSports1" group-title="Spor" , Bein Sports 1
 https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinzirve.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
