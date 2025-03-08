@@ -351,7 +351,7 @@ https://serveranon1.online:8443/701/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
 #EXTVLCOPT:http-referrer=
-https://serveranon1.online:8443/702/tracks-v1a1/mono.m3u8
+https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinb2.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
 
 #EXTINF:-1 tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport3" group-title="Spor", Bein Sport 3
 #EXTVLCOPT:http-referrer=
