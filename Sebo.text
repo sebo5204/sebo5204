@@ -274,6 +274,9 @@ https://tv.prectv5.sbs/live/natgeowild.m3u8
 #EXTINF:0 group-title="Belgesel" , History
 https://tv.prectv5.sbs/live/history.m3u8
 
+#EXTINF:0 group-title="Belgesel" , Discovery
+https://tv.arectv11.sbs/live/discovery.m3u8
+
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
 
@@ -305,9 +308,6 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
-
-#EXTINF:0 group-title="Sinema", Sinema Yerli
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
 
 #EXTINF:-1 tvg-name="TABİİ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_TABİİTV" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
@@ -342,9 +342,6 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 #EXTINF:0 group-title="Spor",SMART SPORT
 https://serveranon1.online:8443/707/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Spor",beIN SPORTS 
-https://sporligtv600.live/restrm/cek.m3u8?u=https://derbi.raventv12.live/yayinzirve.m3u8&a=&aa=derbi.raventv12.live/
-
 #EXTINF:0 group-title="Spor",beIN SPORTS
 https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 
@@ -369,9 +366,6 @@ https://serveranon1.online:8443/716/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Spor",beIN SPORTS max 2
 https://serveranon1.online:8443/717/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title="Spor",beIN SPORTS
-https://cdn2.lextertv.com/stream/431081.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSports1" group-title="Spor" , Bein Sports 1
 https://sporligtv600.live/restrm/cek.m3u8?u=https://g0.b4c8d3e9f1a2b7c5d57.cfd/yayinzirve.m3u8&a=&aa=g0.b4c8d3e9f1a2b7c5d57.cfd
