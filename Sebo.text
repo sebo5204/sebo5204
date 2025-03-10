@@ -120,15 +120,15 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1tvg-name="CARTOON NETWORK TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="ÇizgiFilm_CARTOONNETWORKTR" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" grup-title="ÇizgiFilm", CARTOON NETWORK TR
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
+#EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_MinikaÇocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-name="MinikaGo" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" grup-title="ÇizgiFilm",MinikaGo
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" grup-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_MinikaÇocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="MinikaGo" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" grup-title="ÇizgiFilm",MinikaGo
-https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TRTSPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" grup-title="Spor", TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
