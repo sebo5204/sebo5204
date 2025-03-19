@@ -145,14 +145,14 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_FENERBAHÇETV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" grup-title="Spor", FENERBAHÇE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TV8.5" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" grup-title="Spor", TV8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
+
 #EXTINF:-1 tvg-name="BeIN SPOR HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORHABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
 http://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_TivibuSpor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" grup-title="Spor",Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
-
-#EXTINF:-1 tvg-name="TV8.5" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" grup-title="Spor", TV8.5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Çizgifilm_TRTEBATV" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" grup-title="ÇizgiFilm", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
