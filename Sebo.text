@@ -45,6 +45,9 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" grup-title="Haber", NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Yerel",Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
+
 #EXTINF:-1 tvg-name="HALK TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_HALKTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" grup-title="Haber", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
