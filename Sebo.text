@@ -45,7 +45,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" grup-title="Haber", NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
+#EXTINF:-1 tvg-name="Ekol TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_EkolTV"tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100
@@ -54,14 +54,14 @@ https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 #EXTINF:-1 tvg-name="HALK TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_HALKTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" grup-title="Haber", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_SözcüTV" tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" grup-title="Haber",Sözcü TV
-http://stream.tvcdn.net/haber/sozcu-tv.m3u8
-
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRTHABER" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
 #EXTINF:-1 tvg-name="24" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_24" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" grup-title="Haber", 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_SözcüTV" tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" grup-title="Haber",Sözcü TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="Haber_CNNTURK" tvg-name="CNN Türk"tvg-id="Haber_CNNTurk"tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" grup-title="Haber", CNN TURK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
@@ -98,15 +98,6 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 
 #EXTINF:-1 tvg-name="Sudurağı TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_SudurağıTV" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Eğlence",Sudurağı TV
 http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
-
-#EXTINF:-1 tvg-name="Yeşil çam" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_Yeşilçam" group-title="Eğlence",Yeşil Çam
-https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-
-#EXTINF:-1 tvg-name="Kemal Sunal" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_KemalSunal" group-title="Eğlence",Kemal Sunal
-https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-
-#EXTINF:-1 tvg-name="Şener Şen" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_ŞenerŞen" group-title="Eğlence",Şener Şen
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" grup-title="Eğlence",A2 TR
 https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
