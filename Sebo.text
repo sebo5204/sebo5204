@@ -69,6 +69,9 @@ http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-name="A PARA HD" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="Haber", A PARA HD
 https://canlitvulusal.xyz/live/apara/index.m3u8
 
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
 #EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
