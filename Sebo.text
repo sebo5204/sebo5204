@@ -200,8 +200,8 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TATLISES" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:0 tvg-name="4 Turk Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_4TurkPop"  group-title="Ulusal", 4 Turk Pop
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
@@ -229,6 +229,9 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-name="TATLISES" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_SlowKaradeniz" tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
