@@ -120,7 +120,7 @@ http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="DenizPostasitv" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="Eğlence",Deniz Postasi TV
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 
-#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Eğlence",Tivi6
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
@@ -149,7 +149,6 @@ https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="ÇizgiFilm",Çocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8 
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="ÇizgiFilm",Çizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
@@ -200,11 +199,14 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:0 tvg-name="4 Turk Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_4TurkPop"  group-title="Ulusal", 4 Turk Pop
+#EXTINF:0 tvg-name="4 Turk Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_4TurkPop"  group-title="Müzik", 4 Turk Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+
+#EXTINF:0 tvg-name="Yansıma Muzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_YansimaMuzik"  group-title="Müzik", Yansıma Muzik
+https://hls.goodgame.ru/hls/214752.m3u8
 
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKTAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
