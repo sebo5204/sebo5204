@@ -75,6 +75,9 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC-E" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" grup-title="Eğlence", CNBC-E
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRTBELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" grup-title="Belgesel", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
