@@ -111,14 +111,17 @@ http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
 #EXTINF:-1 tvg-name="Dizi Film TV" tvg-languaga="Turkish" tvg-country="TR" tvg-id="Eğlence_DiziFilmTV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Eğlence", Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 
-#EXTINF:-1 tvg-id="TR" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Eğlence",Tivi Türk
+#EXTINF:-1 tvg-id="TiviTürk.tr" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
 #EXTINF:-1 tvg-id="TR" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Eğlence",Cine 1
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="Eğlence",Deniz Postasi TV
+#EXTINF:-1 tvg-id="DenizPostasitv" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="Eğlence",Deniz Postasi TV
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
+http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
 https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
