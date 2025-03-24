@@ -108,6 +108,9 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 #EXTINF:-1 tvg-name="Sudurağı TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Eğlence_SudurağıTV" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Eğlence",Sudurağı TV
 http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
 
+#EXTINF:-1 tvg-name="Dizi Film TV" tvg-languaga="Turkish" tvg-country="TR" tvg-id="Eğlence_DiziFilmTV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Eğlence", Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
 https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
 
