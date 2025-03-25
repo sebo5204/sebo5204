@@ -208,9 +208,6 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
-#EXTINF:0 tvg-name="Yansıma Muzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_YansimaMuzik"  group-title="Müzik", Yansıma Muzik
-https://hls.goodgame.ru/hls/214752.m3u8
-
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKTAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
