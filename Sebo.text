@@ -387,6 +387,9 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 #EXTINF:0 group-title="Spor",SMART SPORT
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayinsmarts.m3u8&a=&aa=bidaye.mevzuhls23.cfd
 
+#EXTINF:-1 tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS 1
+https://sporligtv600.live/restrm/cek.m3u8?u=https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", Bein Sport 1
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
 
@@ -408,7 +411,7 @@ https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.
 #EXTINF:-1 tvg-name="Bein Sport 1 (İnat Tv)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSports1(İnatTv)" group-title="Spor" , Bein Sports 1 (İnat Tv)
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayininat.m3u8&a=&aa=bidaye.mevzuhls23.cfd
 
-#EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor)" tvg-language="Turkish" tvg-country="Spor_beINSPORTS(Selçukspor)" tvg-id="TRT_1" group-title="Spor",beIN SPORTS (Selçuk spor)
+#EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
