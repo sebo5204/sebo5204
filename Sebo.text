@@ -387,8 +387,11 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 #EXTINF:0 group-title="Spor",SMART SPORT
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayinsmarts.m3u8&a=&aa=bidaye.mevzuhls23.cfd
 
-#EXTINF:-1 tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS 
 https://sporligtv600.live/restrm/cek.m3u8?u=https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS 1
+https://sporligtv601.live/restrm/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
 
 #EXTINF:-1 tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", Bein Sport 1
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
