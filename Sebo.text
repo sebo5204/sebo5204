@@ -165,6 +165,9 @@ http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="ÇizgiFilm",Çizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 
+#EXTINF:-1 tvg-name="Disney Jr" tvg-id="Disney Jr.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="ÇizgiFilm",Disney Jr
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
