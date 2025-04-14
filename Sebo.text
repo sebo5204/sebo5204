@@ -168,10 +168,6 @@ http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 #EXTINF:-1 tvg-name="Disney Jr" tvg-id="Disney Jr.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="ÇizgiFilm",Disney Jr
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
-https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TRTSPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Spor", TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
@@ -240,12 +236,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERLOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="Müzik", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 tvg-name="TATLISES" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_TATLISES" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik", TATLISES
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_SlowKaradeniz" tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -390,8 +380,8 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 #EXTINF:0 group-title="Spor",SMART SPORT
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayinsmarts.m3u8&a=&aa=bidaye.mevzuhls23.cfd
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS selcuk 
-https://sporligtv600.live/restrm/cek.m3u8?u=https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS selcuk
+https://due.b7d6fbb7f7093400.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayinb2.m3u8&a=&aa=bidaye.mevzuhls23.cfd
