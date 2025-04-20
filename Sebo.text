@@ -274,7 +274,7 @@ https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/affcd564-54ac-45d2-a36d-897e865b563c.png" group-title="tryerel", Ordu altaş TV
-http://stream.tvcdn.net/yerel/altas-tv.m3u8
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" group-title="tryerel", Ordu BB TV
 http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
