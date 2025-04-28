@@ -87,9 +87,6 @@ https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_480p.m3u8
 
-#EXTINF:-1 tvg-name="CNBC-E" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="Ekonomi", CNBC-E
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
@@ -106,10 +103,10 @@ https://dogus-live.daioncdn.net/dmax/dmax_480p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
 
 #EXTINF:-1 tvg-name="360 TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_360TV" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_480p.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV 4" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV4" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4 
-https://turkmedya-live.ercdn.net/tv4/tv4_480p.m3u8
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
 https://trkvz-live.daioncdn.net/a2tv/a2tv_480p.m3u8
@@ -332,26 +329,11 @@ https://v.arectv11.sbs/static/tabi2.m3u8
 #EXTINF:4 group-title="Spor",TABİİSPOR 3 TV
 https://v.arectv11.sbs/static/tabi3.m3u8
 
-#EXTINF:0 group-title="Spor",TIVIBU SPOR 1
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayint1.m3u8&a=&aa=bidaye.mevzuhls23.cfd
-
-#EXTINF:0 group-title="Spor",TIVIBU SPOR 2
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayint2.m3u8&a=&aa=bidaye.mevzuhls23.cfd
-
-#EXTINF:0 group-title="Spor",TIVIBU SPOR 3
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayint3.m3u8&a=&aa=bidaye.mevzuhls23.cfd
-
 #EXTINF:0 group-title="Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 #EXTINF:0 group-title="Spor",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:0 group-title="Spor",SMART SPORT
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayinsmarts.m3u8&a=&aa=bidaye.mevzuhls23.cfd
-
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport1" group-title="Spor", beIN SPORTS selcuk
-https://due.b7d6fbb7f7093400.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
 https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
@@ -362,14 +344,8 @@ https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.
 #EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
 https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
 
-#EXTINF:0 group-title="Spor",beIN SPORTS 5
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-5.m3u8
-
 #EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
 https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 1 (İnat Tv)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSports1(İnatTv)" group-title="Spor" , Bein Sports 1 (İnat Tv)
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bidaye.mevzuhls23.cfd/yayininat.m3u8&a=&aa=bidaye.mevzuhls23.cfd
 
 #EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
@@ -398,9 +374,6 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_NOWTR" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 https://tv.arectv29.sbs/live/foxtv.m3u8
  
-#EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek
-http://185.234.111.229:8000/play/a019
-
 #EXTINF:0 group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
