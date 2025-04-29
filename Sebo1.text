@@ -1,37 +1,37 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-name="TRT 1 TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_TRT1TR" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_KANALDTR" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_STARTR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
-https://dogus-live.daioncdn.net/startv/startv_1080p.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_BEYAZTVTR" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_KANAL7TR" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="Ulusal", KANAL 7 TR
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_NOWTR" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
  
 #EXTINF:-1 tvg-name="ULKE" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_ULKE" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRTHABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber", TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
