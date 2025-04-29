@@ -79,7 +79,7 @@ https://b.fulltvizle.com/cnn/playlist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A PARA HD" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="Haber", A PARA HD
-https://trkvz-live.ercdn.net/aparahd/aparahd_.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekoturk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
