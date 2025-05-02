@@ -13,7 +13,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_BEYAZTVTR" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
@@ -37,7 +37,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
 #EXTINF:-1 tvg-name="HABER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HABERTURK" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber", HABER TURK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+https://bloomberght-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Haber_HABERGLOBAL" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber", HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -80,9 +80,6 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A PARA HD" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="Haber", A PARA HD
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
-
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekoturk
-https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -360,7 +357,7 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
-https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK 1
 https://canlitvulusal.xyz/live/showtv/index.m3u8
