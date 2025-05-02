@@ -360,7 +360,7 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
-https://tv.arectv29.sbs/live/show.m3u8
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
