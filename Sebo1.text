@@ -362,7 +362,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
+#EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK 1
+https://canlitvulusal.xyz/live/showtv/index.m3u8
+
+#EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+
+#EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek 1
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 
 #EXTINF:0 group-title="Ulusal", a Spor yedek
