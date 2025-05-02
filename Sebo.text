@@ -268,13 +268,13 @@ https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 
 #EXTINF:0 group-title="Belgesel" , National Geografi
-https://tv.prectv5.sbs/live/natgeo.m3u8
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:0 group-title="Belgesel" , Nat Geo Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:0 group-title="Belgesel" , BBC
 https://tv.prectv5.sbs/live/bbc.m3u8
-
-#EXTINF:0 group-title="Belgesel" , Nat Geo Wild
-https://tv.prectv5.sbs/live/natgeowild.m3u8
 
 #EXTINF:0 group-title="Belgesel" , History
 https://tv.prectv5.sbs/live/history.m3u8
@@ -306,7 +306,7 @@ https://tv.prectv5.sbs/live/box1.m3u8
 https://tv.prectv5.sbs/live/box3.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Sinema",FX
-https://tv.prectv5.sbs/live/fx.m3u8
+https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies premiere
 https://tv.prectv5.sbs/live/bspremier1.m3u8
