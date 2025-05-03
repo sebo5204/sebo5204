@@ -157,7 +157,7 @@ http://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Çizgifilm_TRTEBATV" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
-https://tv-e-okul01.medya.trt.com.tr/master_480.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT MUZIK" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_TRTMUZIK" tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik", TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
