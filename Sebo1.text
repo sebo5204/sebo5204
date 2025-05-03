@@ -169,7 +169,7 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="POWER TURK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_POWERTURK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik", POWER TURK
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_NUMBERONETURK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
