@@ -54,13 +54,13 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRTHABER" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-id="TVNET" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_TVNET"tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
+#EXTINF:-1 tvg-id="TVNET" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_TVNET" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="24" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_24" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber", 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="Akit TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_AkitTV"tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="Haber",Akit TV
+#EXTINF:-1 tvg-name="Akit TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_AkitTV" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="Haber",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_HALKTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber", HALK TV
@@ -69,7 +69,10 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_Tele1" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="Haber_CNNTURK" tvg-name="CNN Türk"tvg-id="Haber_CNNTurk"tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
+http://13.60.64.58/yt/yt.m3u8?kanal=@Sozcutelevizyonu
+
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="Haber_CNNTURK" tvg-name="CNN Türk" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
 https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
