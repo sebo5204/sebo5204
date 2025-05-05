@@ -271,81 +271,54 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:0 group-title="Belgesel" , BBC
-https://tv.prectv5.sbs/live/bbc.m3u8
+https://tv1.arectv30.sbs/live/bbc.m3u8
 
 #EXTINF:0 group-title="Belgesel" , History
-https://tv.prectv5.sbs/live/history.m3u8
+https://tv1.arectv30.sbs/live/history.m3u8
 
 #EXTINF:0 group-title="Belgesel" , Discovery
-https://tv.arectv11.sbs/live/discovery.m3u8
+https://tv1.arectv30.sbs/live/discovery.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
-https://tv.prectv5.sbs/live/bsturk.m3u8
+https://tv1.arectv30.sbs/live/bsturk.m3u8
 
 #EXTINF:-1 tvg-name="Moviesmart Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_MoviesmartTürk" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
-https://tv.prectv5.sbs/live/mvturk.m3u8
+https://tv1.arectv30.sbs/live/mvturk.m3u8
 
 #EXTINF:-1 tvg-name="Rize Türk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_RizeTürkTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Comedy" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesComedy" group-title="Spor", Bein Movies Comedy
 #EXTVLCOPT:http-referrer=
-https://tv.prectv5.sbs/live/bscomedy.m3u8
+https://tv1.arectv30.sbs/live/bscomedy.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Family" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesFamily" group-title="Spor", Bein Movies Family
 #EXTVLCOPT:http-referrer=
-https://tv.prectv5.sbs/live/bsfamily.m3u8
+https://tv1.arectv30.sbs/live/bsfamily.m3u8
 
 #EXTINF:-1 tvg-name="Beinbox Office 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice1" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
-https://tv.prectv5.sbs/live/box1.m3u8
+https://tv1.arectv30.sbs/live/box1.m3u8
 
 #EXTINF:-1 tvg-name="Beinbox Office 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice3" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Beinbox Office 3
-https://tv.prectv5.sbs/live/box3.m3u8
+https://tv1.arectv30.sbs/live/box3.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Sinema",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies premiere
-https://tv.prectv5.sbs/live/bspremier1.m3u8
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
-https://tv.prectv5.sbs/live/bsstars.m3u8
+https://tv1.arectv30.sbs/live/bsstars.m3u8
 
 #EXTINF:-1 tvg-name="TABİİ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_TABİİTV" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
-
-#EXTINF:4 group-title="Spor",TABİİSPOR TV
-https://v.arectv11.sbs/static/tabi.m3u8
-
-#EXTINF:4 group-title="Spor",TABİİSPOR 1 TV
-https://v.arectv11.sbs/static/tabi1.m3u8
-
-#EXTINF:4 group-title="Spor",TABİİSPOR 2 TV
-https://v.arectv11.sbs/static/tabi2.m3u8
-
-#EXTINF:4 group-title="Spor",TABİİSPOR 3 TV
-https://v.arectv11.sbs/static/tabi3.m3u8
 
 #EXTINF:0 group-title="Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 #EXTINF:0 group-title="Spor",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport3" group-title="Spor", Bein Sport 3
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
-https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
@@ -377,13 +350,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_NOWTR" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 https://b.fulltvizle.com/fox/index.m3u8
 
-#EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek
-https://canlitvulusal.xyz/live/ahaber/index.m3u8
-
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 https://b.fulltvizle.com/ahaber/playlist.m3u8
-
-#EXTINF:0 group-title="Rahatlatıcı",Ateş Başı
-https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
 
