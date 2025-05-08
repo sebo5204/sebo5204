@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv_480p.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_KANALDTR" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
@@ -136,7 +136,7 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_ASPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Spor", A SPOR 
-https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 tvg-name="HT SPOR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_HTSPOR" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor", HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_720p.m3u8
@@ -149,12 +149,6 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV8.5" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Spor", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPOR HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORHABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
-http://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_TivibuSpor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Çizgifilm_TRTEBATV" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
@@ -178,7 +172,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cine5 TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_Cine5TV" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Müzik",Cine5 TV 
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_POWERTURKTAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik", POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
@@ -327,7 +321,7 @@ http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
