@@ -336,7 +336,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 
 #EXTINF:0 group-title="Ulusal", a Spor yedek
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek
 http://116.202.238.88/FOXTV_TR/index.m3u8
