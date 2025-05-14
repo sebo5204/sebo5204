@@ -192,12 +192,6 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_SlowKaradeniz" tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" group-title="Müzik",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-name="Toppop TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_ToppopTV" tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png" group-title="Müzik", Toppop TV
-http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
-
-#EXTINF:-1 tvg-name="Tempo TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_TempoTV" tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" group-title="Müzik" , Tempo TV
-http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
-
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-country="TR" tvg-id="trt avrupa_TRTAVAZ" tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="trt avrupa", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
@@ -227,9 +221,6 @@ https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/affcd564-54ac-45d2-a36d-897e865b563c.png" group-title="tryerel", Ordu altaş TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" group-title="tryerel", Ordu BB TV
-http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", TH HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
