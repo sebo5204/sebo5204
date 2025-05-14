@@ -141,9 +141,6 @@ https://ciner-live.ercdn.net/htspor/htspor_720p.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR2 YILDIZ" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_TRTSPOR2YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="Spor", TRT SPOR2 YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_FENERBAHÇETV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Spor", FENERBAHÇE TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV8.5" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_TV8.5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Spor", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8
 
