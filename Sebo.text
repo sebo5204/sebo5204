@@ -151,7 +151,7 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-name="Kral Pop Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="Müzik_KralPopTv" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Müzik", Kral Pop TV
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
 #EXTINF:-1 tvg-name="Dream Türk" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Müzik_DreamTürk" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik", Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
