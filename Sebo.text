@@ -103,7 +103,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
-https://b.fulltvizle.com/a2/playlist.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_TEVE2" tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="Eğlence", TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
@@ -118,7 +118,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_MinikaÇocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aminikago_cocuk/minikago_cocuk_480p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
