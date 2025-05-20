@@ -42,10 +42,10 @@ https://bloomberght-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Türkçe" tvg-country="TR" tvg-id="HABERGLOBAL.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber", HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
-#EXTINF:-1 tvg-name="NTV" tvg-language="Türkçetvg-idid="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber", NTV
+#EXTINF:-1 tvg-name="NTV" tvg-language="Türkçe" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber", NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-name="Ekol TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="EkolTV.tr"tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
+#EXTINF:-1 tvg-name="Ekol TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="EkolTV.tr" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100
