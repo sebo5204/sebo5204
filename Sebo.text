@@ -329,15 +329,6 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
 #EXTINF:0 group-title="Radyo",Baba Radyo
 http://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Radyo", Best Fm
-http://46.20.7.125/bestfmaac
-
-#EXTINF:4 tvg-logo="http://3.bp.blogspot.com/-mM75U7S2s0w/WaO2foN2qTI/AAAAAAAAUIA/SXrgKMQpDBwahViHrkgF_Edop_TqweSSACLcBGAs/s1600/e.jpg" group-title="Radyo" , Ekin Radyo
-http://yayin.turkhosted.com:6006/;
-
-#EXTINF:4 group-title="Radyo" , Number One Turk
-http://n10101m.mediatriple.net/numberoneturk
-
 #EXTINF:4 group-title="Radyo" , number One Slow
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8
 
@@ -350,48 +341,17 @@ https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
 #EXTINF:4 tvg-logo="http://4.bp.blogspot.com/-ptq-5gcbpY8/Waa0NkrBy3I/AAAAAAAAUac/yXxeTjqhZIMn4qmoHtluhwFeSLeyOxtDwCLcBGAs/s1600/p.jpg" group-title="Radyo" ,Kral Pop Radyo
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 
-#EXTINF:4 group-title="Radyo: , Radyo Viva
-http://46.20.3.231/;
-
 #EXTINF:4 group-title="Radyo" , Show Radyo
 https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
-
-#EXTINF:4 group-title="Radyo" , Süper Fm
-https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;
-
-#EXTINF:-1 group-title="Radyo" , Radyo Seymen
-https://yayin.radyoseymen.com.tr:1070/stream
 
 #EXTINF:0 group-title="Radyo" , Radyo Fenomen Turk
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
 
-#EXTINF:0 group-title="Radyo" , Radyo Tatlises
-https://sslyayin.radyoyayini.com:7009/stream
-
-#EXTINF:0 group-title="Radyo" , Samsun Tutku Fm
-https://sslyayin.radyoyayini.com:7015/stream
-
-
-#EXTINF:0 group-title="Radyo" , Samsun Merkez Fm
-https://sslyayin.radyoyayini.com:7007/stream
-
-#EXTINF:-1 group-title="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-lEteWeTl_3I/WarNKkJGioI/AAAAAAAAUr4/Dxw_gAr97BQ07Kap1VofiTdgXKC6IXVLgCLcBGAs/s1600/o.jpg" ,ORDU FM
-https://radyo1.radyo-dinle.tc/8098/;
-
 #EXTINF:0 group-title="Radyo" , Power Turk Fm
 https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 
-#EXTINF:0 group-title="Radyo" , Radyo 2000
-http://radyo2000.radyomhd.com:1100/;
-
-#EXTINF:0 group-title="Radyo" , Radyo karadeniz
-https://radyo1.radyo-dinle.tc/8138/stream
-
 #EXTINF:0 group-title="Radyo" , Radyo Turkuaz
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
-
-#EXTINF:0 group-title="Radyo" , Trt Fm
-https://trt.radyotvonline.net/trtfm
 
 #EXTINF:0 group-title="Radyo" , Trt Radyo1
 https://radio-trtradyo1.live.trt.com.tr/master.m3u8
