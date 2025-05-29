@@ -350,14 +350,11 @@ http://kralwmp.radyotvonline.com/;
 #EXTINF:4 tvg-logo="http://4.bp.blogspot.com/-ptq-5gcbpY8/Waa0NkrBy3I/AAAAAAAAUac/yXxeTjqhZIMn4qmoHtluhwFeSLeyOxtDwCLcBGAs/s1600/p.jpg" group-title="Radyo" ,Kral Pop Radyo
 http://kralpopwmp.radyotvonline.com/;
 
-#EXTINF:4 group-title="Radyo" , Küpe Fm
-https://icecast.netmedya.net/kupefm
-
 #EXTINF:4 group-title="Radyo: , Radyo Viva
 http://46.20.3.231/;
 
 #EXTINF:4 group-title="Radyo" , Show Radyo
-http://46.20.3.229/;
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
 
 #EXTINF:4 group-title="Radyo" , Süper Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;
