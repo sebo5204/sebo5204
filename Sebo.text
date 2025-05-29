@@ -332,17 +332,17 @@ http://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
 #EXTINF:4 group-title="Radyo" , number One Slow
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8
 
-#EXTINF:4 group-title="Radyo" , Pal Fm
-https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
-
 #EXTINF:4 tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.jpg" group-title="Radyo" , Kral Fm
 https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
 
 #EXTINF:4 tvg-logo="http://4.bp.blogspot.com/-ptq-5gcbpY8/Waa0NkrBy3I/AAAAAAAAUac/yXxeTjqhZIMn4qmoHtluhwFeSLeyOxtDwCLcBGAs/s1600/p.jpg" group-title="Radyo" ,Kral Pop Radyo
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 
-#EXTINF:4 group-title="Radyo" , Show Radyo
-https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:4 group-title="Radyo" , Best fm
+https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8
+
+#EXTINF:4 group-title="Radyo" , Pal Fm
+https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
 
 #EXTINF:0 group-title="Radyo" , Radyo Fenomen Turk
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
@@ -352,6 +352,9 @@ https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 
 #EXTINF:0 group-title="Radyo" , Radyo Turkuaz
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+
+#EXTINF:4 group-title="Radyo" , Show Radyo
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
 
 #EXTINF:0 group-title="Radyo" , Trt Radyo1
 https://radio-trtradyo1.live.trt.com.tr/master.m3u8
