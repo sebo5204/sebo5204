@@ -79,13 +79,16 @@ https://b.fulltvizle.com/cnn/playlist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_480p.m3u8
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="TBMMTV.tr",TBMM TV (720p)
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRTBELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_TRT2" tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="Eğlence", TRT 2
-https://tv-trt2.medya.trt.com.tr/master_480.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="DMAX TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="Eğlence_DMAXTR" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Eğlence", DMAX TR
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
