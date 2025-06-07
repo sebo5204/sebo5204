@@ -81,7 +81,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:-1 tvg-id="TBMMTV.tr",TBMM TV (720p)
+#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" ,TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRTBELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel", TRT BELGESEL
