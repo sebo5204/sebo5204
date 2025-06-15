@@ -330,6 +330,9 @@ https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 2
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
 
 #EXTINF:0 group-title="Radyo",Baba Radyo
