@@ -87,6 +87,9 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
+#EXTINF:-1 tvg-name="TRT 4K" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRT4K" tvg-logo="https://i.ibb.co/N1h8m96/trt4k.png" group-title="Eğlence", TRT 4K
+http://176.65.146.123:6001/play/a027/index.m3u8
+
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Türkçe" tvg-country="TR" tvg-id="Belgesel_TRTBELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
