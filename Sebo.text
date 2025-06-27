@@ -265,7 +265,7 @@ https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:0 group-title="Belgesel" , Discovery
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" group-title="Sinema",Sinema yerli 2
+#EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" group-title="Sinema" , Sinema yerli 2
 https://tv1.arectv30.sbs/live/sinemayerli2.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
@@ -344,6 +344,9 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 2
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6900/index.m3u8
+
+#EXTINF:0 group-title="Ulusal", Now Tv yedek 3
+https://live-cdn-65984.varplaycdn.cfd/now/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek
 https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
