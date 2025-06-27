@@ -31,7 +31,7 @@ https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRTHABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber", TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://live-cdn-65984.varplaycdn.cfd/ahaber/index.m3u8
