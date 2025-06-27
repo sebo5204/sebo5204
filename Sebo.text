@@ -288,6 +288,9 @@ https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-name="Beinbox Office 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice1" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
 https://tv1.arectv30.sbs/live/box1.m3u8
 
+#EXTINF:-1 tvg-name="Beinbox Office 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-2-logo.png"group-title="Sinema",Beinbox Office 2
+https://tv1.arectv30.sbs/live/box2.m3u8
+
 #EXTINF:-1 tvg-name="Beinbox Office 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice3" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Beinbox Office 3
 https://tv1.arectv30.sbs/live/box3.m3u8
 
