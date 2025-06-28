@@ -265,8 +265,11 @@ https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:0 group-title="Belgesel" , Discovery
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" group-title="Sinema" , Sinema yerli 2
+#EXTINF:-1 tvg-name="sinema yerli" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_sinemayerli" group-title="Sinema" , Sinema yerli 2
 https://tv1.arectv30.sbs/live/sinemayerli2.m3u8
+
+#EXTINF:-1 tvg-name="Bein series 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_Beinseries1" group-title="Sinema" , Bein Series 1
+https://tv1.arectv30.sbs/live/bsseries1.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
 https://tv1.arectv30.sbs/live/bsturk.m3u8
