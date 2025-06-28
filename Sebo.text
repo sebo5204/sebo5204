@@ -8,7 +8,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D TR" tvg-language="Turkish" tvg-country="TR" tvg-id="KANALD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
