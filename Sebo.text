@@ -306,13 +306,13 @@ https://tv1.arectv30.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-name="TABİİ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_TABİİTV" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor",beIN SPORTS 
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor" , beIN SPORTS 
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor",beIN SPORTS (rec tv)
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor" , beIN SPORTS (rec tv)
 https://bs.arectv33.sbs/static/bs1.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor",beIN SPORTS (Selçuk spor)
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
