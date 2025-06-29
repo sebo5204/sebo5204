@@ -26,7 +26,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
 #EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
  
 #EXTINF:-1 tvg-name="ULKE" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ULKE.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
