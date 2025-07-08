@@ -68,10 +68,10 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
 
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
-https://izle.canlitvapp.com/sozcu/index.m3u8
+https://b.fulltvizle.com/sozcu/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
-https://izle.canlitvapp.com/cnn/index.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
@@ -374,6 +374,9 @@ http://66.160.192.241/foxturk/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 3
 https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
+https://izle.canlitvapp.com/cnn/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 http://78.128.125.60:9981/play/a01f/index.m3u8
