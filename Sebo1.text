@@ -106,7 +106,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-name ="A2 TR" tvg-langue="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_A2TR" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2/a2.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Eğlence_TEVE2" tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="Eğlence", TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -121,13 +121,13 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1tvg-name="CARTOON NETWORK TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="ÇizgiFilm_CARTOONNETWORKTR" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇizgiFilm", CARTOON NETWORK TR
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_MinikaÇocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
-https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="ÇizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
-https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-name="Disney Jr" tvg-id="Disney Jr.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="ÇizgiFilm",Disney Jr
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
@@ -151,10 +151,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-name="BeIN SPOR HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORHABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
-http://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_TivibuSpor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+https://live-cdn-65984.varplaycdn.cfd/beinsportshaber/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Çizgifilm_TRTEBATV" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="ÇizgiFilm", TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
