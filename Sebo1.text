@@ -28,7 +28,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://b.fulltvizle.com/fox/playlist.m3u8
  
 #EXTINF:-1 tvg-name="ULKE" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Haber_ULKE" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
-https://live-cdn-65984.varplaycdn.cfd/ulke/index.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRTHABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber", TRT HABER
 https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
@@ -325,22 +325,28 @@ https://v1.arectv12.sbs/static/tabi2.m3u8
 https://v1.arectv12.sbs/static/tabi3.m3u8
 
 #EXTINF:0 group-title="Spor",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+https://bs.arectv33.sbs/static/ss11.m3u8
 
 #EXTINF:0 group-title="Spor",S SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport3" group-title="Spor", Bein Sport 3
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
+https://bs.arectv33.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
-http://ecetv.xyz:80/play/6Tk-zVBs9GzvbIV3Er__JHVYpFHR9yEI8DIEbXkn2lHs6njOeh7hOc5UgCYhU7WQ
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport2" group-title="Spor", Bein Sport 2
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport3" group-title="Spor", Bein Sport 3
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-3-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
+http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS rec tv
+https://bs.arectv33.sbs/static/bs1.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
 https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
