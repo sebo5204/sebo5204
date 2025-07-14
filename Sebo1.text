@@ -258,20 +258,23 @@ https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", Turkmeneli tv
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 
-#EXTINF:0 group-title="Belgesel" , National Geografi
+#EXTINF:-1 group-title="Belgesel" , National Geografi
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:0 group-title="Belgesel" , Nat Geo Wild
+#EXTINF:-1 group-title="Belgesel" , Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:0 group-title="Belgesel" , BBC
+#EXTINF:-1 group-title="Belgesel" , BBC
 https://tv1.arectv30.sbs/live/bbc.m3u8
 
-#EXTINF:0 group-title="Belgesel" , History
+#EXTINF:-1 group-title="Belgesel" , History
 https://tv1.arectv30.sbs/live/history.m3u8
 
-#EXTINF:0 group-title="Belgesel" , Discovery
+#EXTINF:-1 group-title="Belgesel" , Discovery
 https://tv1.arectv30.sbs/live/discovery.m3u8
+
+#EXTINF:-1 tvg-name="Bein Series" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk"  group-title="Sinema",Bein Series 1
+https://tv1.arectv30.sbs/live/bsseries1.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesTurk" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
 https://tv1.arectv30.sbs/live/bsturk.m3u8
@@ -283,11 +286,9 @@ https://tv1.arectv30.sbs/live/mvturk.m3u8
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Comedy" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesComedy" group-title="Spor", Bein Movies Comedy
-#EXTVLCOPT:http-referrer=
 https://tv1.arectv30.sbs/live/bscomedy.m3u8
 
 #EXTINF:-1 tvg-name="Bein Movies Family" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinMoviesFamily" group-title="Spor", Bein Movies Family
-#EXTVLCOPT:http-referrer=
 https://tv1.arectv30.sbs/live/bsfamily.m3u8
 
 #EXTINF:-1 tvg-name="Beinbox Office 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice1" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
@@ -308,22 +309,22 @@ https://tv1.arectv30.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-name="TABİİ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_TABİİTV" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
 
-#EXTINF:4 group-title="Spor",TABİİSPOR TV
+#EXTINF:-1 group-title="Spor",TABİİSPOR TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:4 group-title="Spor",TABİİSPOR 1 TV
+#EXTINF:-1 group-title="Spor",TABİİSPOR 1 TV
 ttps://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:4 group-title="Spor",TABİİSPOR 2 TV
+#EXTINF:-1 group-title="Spor",TABİİSPOR 2 TV
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:4 group-title="Spor",TABİİSPOR 3 TV
+#EXTINF:-1 group-title="Spor",TABİİSPOR 3 TV
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:0 group-title="Spor",S SPORT
+#EXTINF:-1 group-title="Spor",S SPORT
 https://bs.arectv33.sbs/static/ss11.m3u8
 
-#EXTINF:0 group-title="Spor",S SPORT 2
+#EXTINF:-1 group-title="Spor",S SPORT 2
 https://bs.arectv33.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
