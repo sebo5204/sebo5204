@@ -321,6 +321,9 @@ https://bs.arectv33.sbs/static/ss11.m3u8
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", S SPORT 2
 https://bs.arectv33.sbs/static/ss2.m3u8
 
+#EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", TR SPOR
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS play
 https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
 
