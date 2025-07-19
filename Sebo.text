@@ -358,7 +358,7 @@ http://95.174.71.114/TR-FOX/index.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+http://116.202.238.88/ATV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -401,6 +401,9 @@ https://b.fulltvizle.com/ahaber/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 3
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
+
+#EXTINF:-1 tvg-name="A Haber" group-title="Spor", A SPOR
+http://116.202.238.88/ASPOR_TR/index.m3u8
 
 #EXTINF:0 group-title="Radyo",Baba Radyo
 http://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
