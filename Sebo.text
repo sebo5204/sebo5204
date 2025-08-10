@@ -8,7 +8,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D TR" tvg-language="Turkish" tvg-country="TR" tvg-id="KANALD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
@@ -355,7 +355,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 http://95.174.71.114/TR-FOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
 http://116.202.238.88/ATV_TR/index.m3u8
