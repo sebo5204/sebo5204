@@ -321,12 +321,6 @@ https://bs.arectv33.sbs/static/ss11.m3u8
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", S SPORT 2
 https://bs.arectv33.sbs/static/ss2.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", TR SPOR
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS play
-https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS 
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
@@ -355,7 +349,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 http://95.174.71.114/TR-FOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+http://116.202.238.88/KANALD_TR/index.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
 http://116.202.238.88/ATV_TR/index.m3u8
