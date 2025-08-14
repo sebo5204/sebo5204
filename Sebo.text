@@ -377,6 +377,9 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 http://66.160.192.241/foxturk/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
+http://trn03.tulix.tv/gt-cnnturk-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 https://izle.canlitvapp.com/cnn/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
