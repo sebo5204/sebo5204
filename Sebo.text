@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U https://raw.githubusercontent.com/hayatiptv/iptv/master/tr-EPG-guide.xml
 
  
 #EXTINF:-1 tvg-name="TRT 1 TR" tvg-language="Turkish" tvg-country="Eğlence_DMAX-log.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
