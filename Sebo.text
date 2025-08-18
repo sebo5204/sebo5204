@@ -391,7 +391,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
 http://78.128.125.60:9981/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 2
-http://116.202.238.88/AHABER_TR/index.m3u8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 3
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
