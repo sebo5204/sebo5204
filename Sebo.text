@@ -5,7 +5,7 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="Eğlence_TLCTlog.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D TR" tvg-language="Turkish" tvg-country="TR" tvg-id="KANALD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
@@ -363,6 +363,12 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
 http://116.202.238.88/ATV_TR/index.m3u8
 
+#EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR 1
+http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR 2
+http://116.202.238.88/STAR_TR/index.m3u8
+
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
@@ -382,7 +388,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 http://66.160.192.241/foxturk/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49261
+http://trn03.tulix.tv/gt-cnnturk-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
@@ -391,7 +397,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
 http://78.128.125.60:9981/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
+http://116.202.238.88/AHABER_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 3
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
