@@ -367,7 +367,7 @@ http://116.202.238.88/ATV_TR/index.m3u8
 http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR 2
-http://116.202.238.88/STAR_TR/index.m3u8
+http://116.202.238.88/STARTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
