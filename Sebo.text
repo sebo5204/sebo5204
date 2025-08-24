@@ -351,9 +351,6 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW turknet
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
-http://95.174.71.114/TR-FOX/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D
 http://116.202.238.88/KANALD_TR/index.m3u8
 
@@ -381,8 +378,8 @@ http://116.202.238.88/SHOWTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek
 http://116.202.238.88/TV8_TR/index.m3u8
 
-#EXTINF:0 group-title="Ulusal", a Spor yedek
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+#EXTINF:-1 tvg-name="NOW TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
+http://95.174.71.114/TR-FOX/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -404,6 +401,9 @@ http://116.202.238.88/AHABER_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 3
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
+
+#EXTINF:0 group-title="Ulusal", a Spor yedek
+http://95.174.71.114:80/TR-A-SPOR/index.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" group-title="Spor", A SPOR
 http://116.202.238.88/ASPOR_TR/index.m3u8
