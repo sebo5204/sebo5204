@@ -327,6 +327,12 @@ http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
 
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 3
+http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 4
+http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS (rec tv)
 https://bs.arectv33.sbs/static/bs1.m3u8
 
