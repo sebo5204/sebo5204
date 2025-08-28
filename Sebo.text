@@ -68,7 +68,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
 
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
-https://izle.canlitvapp.com/sozcu/index.m3u8
+http://176.65.146.123:6004/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="CNNTURK.tr" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
 https://izle.canlitvapp.com/cnn/index.m3u8
