@@ -378,6 +378,9 @@ http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 2
 http://95.174.71.114:80/TR-ATV/index.m3u8
 
+#EXTINF:0 tvg-name="ATV TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATVTR" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek 3
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR 1(tulix)
 http://trn03.tulix.tv/gt-star-tv/index.m3u8
 
