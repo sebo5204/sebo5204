@@ -73,7 +73,7 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 https://izle.canlitvapp.com/sozcu/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-language="Türkçe" tvg-country="TR" tvg-id="Haber_CNNTURK" tvg-name="CNN Türk" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
-https://izle.canlitvapp.com/cnn/index.m3u8
+http://95.174.71.114:80/TR-CNN-TURK/index.m3u8
 
 #EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
@@ -358,7 +358,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://canlitvulusal.xyz/live/showtv/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", STAR TV yedek 
-https://izle.canlitvapp.com/star/index.m3u8
+http://95.174.71.114:80/TR-STAR/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
