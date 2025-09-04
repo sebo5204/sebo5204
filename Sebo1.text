@@ -364,7 +364,7 @@ http://95.174.71.114:80/TR-STAR/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:-1 tvg-name="TV 8 TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Ulusal_TV8TR" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek 2
-https://b.fulltvizle.com/kanal8/tracks-v1a1/mono.m3u8
+http://95.174.71.114:80/TR-TV8/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", a Spor yedek
 http://116.202.238.88/ASPOR_TR/index.m3u8
