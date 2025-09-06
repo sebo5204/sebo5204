@@ -145,6 +145,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-name="HT SPOR TR" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="Spor_HTSPOR" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor", HT SPOR
 https://bloomberght-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg",EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
+
 #EXTINF:-1 tvg-name="TRT SPOR2 YILDIZ TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="Spor_TRTSPOR2YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="Spor", TRT SPOR2 YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
