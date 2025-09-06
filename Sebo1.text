@@ -220,7 +220,7 @@ https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanal S" tvg-language="Turkish" tvg-country="TR" tvg-id="tryerel_KanalS" tvg-logo="http://assets.tvcdn.net/1d2b5e56-806f-43b7-b303-d5d96ebe257c.png" group-title="tryerel",Kanal S
-http://stream.tvcdn.net/yerel/kanal-s.m3u8
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KANAL URFA" tvg-language="Turkish" tvg-country="tryerel_KANALURFA" tvg-id="TRT_1" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="tryerel", KANAL URFA
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
@@ -342,13 +342,10 @@ https://bs.arectv33.sbs/static/bs4.m3u8
 #EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS (Selçuk spor) TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS(Selçukspor)" group-title="Spor",beIN SPORTS (Selçuk spor)
-https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D yedek
 https://izle.canlitvapp.com/kanald/index.m3u8
 
-#EXTINF:0 group-title="Ulusal", Kanal yedek 1
+#EXTINF:0 group-title="Ulusal", Kanal d yedek 1
 http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
