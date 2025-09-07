@@ -357,6 +357,9 @@ https://bs.arectv33.sbs/static/bs3.m3u8
 #EXTINF:-1 tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeinSport4" group-title="Spor", Bein Sport 4
 https://bs.arectv33.sbs/static/bs4.m3u8
 
+#EXTINF:0 tvg-name="Bein Sport 5" group-title="Spor", Bein Sport 5
+https://bs.arectv31.sbs/static/bs5.m3u8
+
 #EXTINF:-1 tvg-name="BeIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORTS" group-title="Spor" , BeIN SPORTS 
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
@@ -368,6 +371,9 @@ http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Rec tv
+https://tv.arectv31.sbs/live/atv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_SHOWTVTR" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -397,4 +403,4 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
-https://b.fulltvizle.com/ahaber/playlist.m3u8
+https://tv.arectv31.sbs/live/ahaber.m3u8
