@@ -103,7 +103,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-name="isvicretv" tvg-ülke="TR" tvg-id="isvicretv tr" group-title="Eğlence" ,isvicre tv
+#EXTINF:-1 tvg-name="isvicretv" tvg-ülke="TR" tvg-id="isvicretv tr" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Eğlence" ,isvicre tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
