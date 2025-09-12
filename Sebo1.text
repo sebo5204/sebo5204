@@ -365,6 +365,7 @@ https://bs.arectv33.sbs/static/bs4.m3u8
 
 #EXTINF:-1 group-title="Spor", Bein Sport 5
 https://bs.arectv31.sbs/static/bs5.m3u8
+
 #EXTINF:-1 group-title="Spor" , BeIN SPORTS 
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
