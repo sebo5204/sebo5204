@@ -414,13 +414,16 @@ http://66.160.192.241/foxturk/index.m3u8
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:0 group-title="Haber", Sözcü TV
+#EXTINF:0 group-title="Haber", Sözcü TV Rec tv
 https://tv1.arectv30.sbs/live/sozcutv.m3u8
+
+#EXTINF:0 group-title="Haber", CNN TURK
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 
 #EXTINF:-1 group-title="Haber", Ülke tv
 http://116.202.238.88/ULKETV_TR/index.m3u8
 
-#EXTINF:0 group-title="Haber", a haber
+#EXTINF:0 group-title="Haber", a haber rec tv
 https://tv1.arectv30.sbs/live/ahaber.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
