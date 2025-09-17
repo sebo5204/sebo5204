@@ -417,7 +417,7 @@ http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:1 group-title="Ulusal", Kanal d yedek 1
 http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title=Ulusal" , Kanal 7 yedek
+#EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
