@@ -408,8 +408,11 @@ https://bs.arectv31.sbs/static/bs5.m3u8
 #EXTINF:1 group-title="Spor", Bein Sport Max 1 rec tv
 https://tv1.arectv30.sbs/live/bm1.m3u8
 
-#EXTINF: group-title="Spor", Bein Sport Max 2 rec tv
+#EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
 https://tv.arectv31.sbs/live/bm2.m3u8
+
+#EXTINF:0 group-title="Ulusal" , ATV DENEME
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D yedek
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
