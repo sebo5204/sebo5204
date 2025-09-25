@@ -400,7 +400,7 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 https://tv.arectv31.sbs/live/bm2.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D yedek
-https://c1.fulltvizle.com/kanald/index.m3u8
+http://78.128.125.60:9981/play/a01h/index.m3u8
 
 #EXTINF:1 group-title="Ulusal", Kanal d yedek 1
 http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
@@ -415,7 +415,7 @@ https://c1.fulltvizle.com/aytv/index.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Rec tv
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
