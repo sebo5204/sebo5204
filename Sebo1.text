@@ -381,26 +381,17 @@ https://v.arectv30.sbs/static/bs2.m3u8
 #EXTINF:1 group-title="Spor" , BeIN SPORTS 2 
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
 
-#EXTINF:1 group-title="Spor" , BeIN SPORTS 2 yedek
-http://bydnuhecb.pro:8080/Kadir365/HcfEAgYugh/196216
-
 #EXTINF:1 group-title="Spor", Bein Sport 3 rec tv
 https://bs.arectv33.sbs/static/bs3.m3u8
 
 #EXTINF:1 group-title="Spor" , BeIN SPORTS 3 
 http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
 
-#EXTINF:1 group-title="Spor" , BeIN SPORTS 3 yedek
-http://bydnuhecb.pro:8080/Kadir365/HcfEAgYugh/196217
-
 #EXTINF:1 group-title="Spor", Bein Sport 4 rec tv
 https://bs.arectv33.sbs/static/bs4.m3u8
 
 #EXTINF:1 group-title="Spor" , BeIN SPORTS 4
 http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
-
-#EXTINF:1 group-title="Spor" , BeIN SPORTS 4 yedek
-http://bydnuhecb.pro:8080/Kadir365/HcfEAgYugh/196218
 
 #EXTINF:1 group-title="Spor", Bein Sport 5 rec tv
 https://bs.arectv31.sbs/static/bs5.m3u8
@@ -411,17 +402,17 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 #EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
 https://tv.arectv31.sbs/live/bm2.m3u8
 
-#EXTINF:0 group-title="Ulusal" , ATV DENEME
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
-
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D yedek
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+https://c1.fulltvizle.com/kanald/index.m3u8
 
 #EXTINF:1 group-title="Ulusal", Kanal d yedek 1
 http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
+
+#EXTINF:0 group-title="Ulusal" , ATV DENEME
+https://c1.fulltvizle.com/aytv/index.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -457,7 +448,7 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 
 #EXTINF:0 group-title="Ulusal", a Spor yedek
-http://116.202.238.88/ASPOR_TR/index.m3u8
+https://c1.fulltvizle.com/aspor/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek
 http://66.160.192.241/foxturk/index.m3u8
@@ -469,7 +460,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://tv1.arectv30.sbs/live/sozcutv.m3u8
 
 #EXTINF:0 group-title="Haber", CNN TURK
-http://116.202.238.88/CNNTURK_TR/index.m3u8
+https://c1.fulltvizle.com/cnn/index.m3u8
 
 #EXTINF:1 group-title="Haber", Ülke tv
 http://116.202.238.88/ULKETV_TR/index.m3u8
