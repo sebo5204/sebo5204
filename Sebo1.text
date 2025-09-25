@@ -360,9 +360,6 @@ https://tv1.arectv30.sbs/live/smart1.m3u8
 #EXTINF:-1 group-title="Spor", Spor Smart 2
 https://tv.arectv31.sbs/live/smart2.m3u8
 
-#EXTINF:1 group-title="Spor", Bein sports 1 HD Özel
-http://bydnuhecb.pro:8080/Kadir365/HcfEAgYugh/456567
-
 #EXTINF:1 group-title="Spor", Bein sports 1 özel 2
 http://bydnuhecb.pro:8080/btk8743/Qfpz7AEqaN/190072
 
