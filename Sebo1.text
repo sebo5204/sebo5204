@@ -408,13 +408,16 @@ http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
 
-#EXTINF:0 group-title="Ulusal" , ATV DENEME
+#EXTINF:0 group-title="Ulusal" , ATV fulizle
 https://c1.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:0 group-title="Ulusal" , ATV 116
+http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Rec tv
 https://tv.arectv31.sbs/live/atv.m3u8
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV yedek
+#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV turknet
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
