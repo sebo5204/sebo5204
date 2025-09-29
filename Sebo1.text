@@ -28,7 +28,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://trn03.tulix.tv/gt-fox-turk-tv/tracks-v1a1/mono.m3u8
  
 #EXTINF:1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
-https://livetv.radyotvonline.net/kanal7live/ulketv/tracks-v1a1/mono.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber", TRT HABER
 https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
@@ -58,7 +58,7 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/tracks-v1a1/mono.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber", 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -76,7 +76,7 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
-https://mn-nl.mncdn.com/gzttv/gzttv/tracks-v1a1/mono.m3u8
+https://mn-nl.mncdn.com/gzttv/gzttv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -145,7 +145,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="ÇizgiFilm",Disney Jr
-https://saran-live.ercdn.net/disneyjunior/tracks-v1a1/mono.m3u8
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Spor", TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
