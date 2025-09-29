@@ -465,8 +465,8 @@ https://c1.fulltvizle.com/cnn/index.m3u8
 #EXTINF:1 group-title="Haber", Ülke tv
 http://116.202.238.88/ULKETV_TR/index.m3u8
 
-#EXTINF:0 group-title="Haber", a haber rec tv
-https://tv1.arectv30.sbs/live/ahaber.m3u8
+#EXTINF:0 group-title="Haber", a haber 116
+http://116.202.238.88/AHABER_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 https://izle.canlitvapp.com/ahaber/index.m3u8
