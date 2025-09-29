@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
-http://89.187.191.41/ATV-HD-TR/index.m3u8
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
@@ -463,7 +463,7 @@ https://tv1.arectv30.sbs/live/sozcutv.m3u8
 https://c1.fulltvizle.com/cnn/index.m3u8
 
 #EXTINF:1 group-title="Haber", Ülke tv
-http://116.202.238.88/ULKETV_TR/index.m3u8
+http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Haber", a haber 116
 http://116.202.238.88/AHABER_TR/tracks-v1a1/mono.m3u8
