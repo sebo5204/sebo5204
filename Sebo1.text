@@ -162,9 +162,6 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="Spor", TRT SPOR2 YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Spor", FENERBAHÇE TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 
@@ -434,6 +431,9 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", tv 8 yedek 2
 http://89.187.191.41/TV8-HD-TR/video.m3u8
+
+#EXTINF:1 group-title="Spor" , TRT 1 YEDEK ESDAI
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK TULIX
 https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
