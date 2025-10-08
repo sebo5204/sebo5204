@@ -394,10 +394,10 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 https://tv.arectv31.sbs/live/bm2.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D 78
-http://78.128.125.60:9981/play/a01h/index.m3u8
+http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Ulusal", Kanal d yedek 1
-http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
+https://c1.fulltvizle.com/kanald/index.m3u8
 
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
