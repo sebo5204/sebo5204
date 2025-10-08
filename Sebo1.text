@@ -64,7 +64,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/index.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="Haber",Akit TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+https://akittv-live.ercdn.net/a7kittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
@@ -396,8 +396,11 @@ https://tv.arectv31.sbs/live/bm2.m3u8
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D 78
 http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 group-title="Ulusal", Kanal d yedek 1
+#EXTINF:1 group-title="Ulusal", Kanal d fulizle
 https://c1.fulltvizle.com/kanald/index.m3u8
+
+#EXTINF:1 group-title="Ulusal", Kanal d izle
+https://izle.canlitvapp.com/kanald/index.m3u8
 
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
