@@ -7,7 +7,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
@@ -400,7 +400,7 @@ http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
 http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Ulusal", Kanal d izle
-https://izle.canlitvapp.com/kanald/index.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
