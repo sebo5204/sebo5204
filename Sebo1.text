@@ -414,8 +414,8 @@ http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", show tv 95
-http://95.174.71.114:80/TR-SHOW/index.m3u8
+#EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",SHOW TIVIMIVI
+http://cdn-tr.tivimivi.com/streams/109/master.m3u8
 
 #EXTINF:1 group-title="Ulusal" ,star tv tulix
 http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
