@@ -447,6 +447,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 #EXTINF:0 group-title="Ulusal", a Spor yedek
 https://izle.canlitvapp.com/aspor/index.m3u8
 
+#EXTINF:0 group-title="Ulusal", Now Tv tulix
+https://trn03.tulix.tv/gt-fox-turk-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="Ulusal", Now Tv yedek
 http://66.160.192.241/foxturk/index.m3u8
 
