@@ -468,7 +468,7 @@ http://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #EXTINF:1 group-title="Haber", Ülke tv
 http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 A HABER
+#EXTINF:1 group-title="haber", A HABER
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/104
 
 #EXTINF:0 group-title="Haber", a haber 95
