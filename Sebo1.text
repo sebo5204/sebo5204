@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ULUSAL",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
@@ -94,10 +94,10 @@ http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Eğlence", DMAX TR
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Eğlence", TLC TR
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
