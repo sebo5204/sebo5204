@@ -424,7 +424,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 http://cdn-tr.tivimivi.com/streams/109/master.m3u8
 
 #EXTINF:1 group-title="Ulusal" ,star tv tulix
-http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
+http://66.160.192.241/startvturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Ulusal", STAR TV 95
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
@@ -439,7 +439,7 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 http://95.174.71.114/TR-TRT1/index.m3u8
 
 #EXTINF:0 group-title="Haber", TRT 1 116
-http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
+http://66.160.192.241/trt1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK ESDAI
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
