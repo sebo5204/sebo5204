@@ -414,6 +414,9 @@ https://tv.arectv31.sbs/live/atv.m3u8
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV 89
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Haber", Show tv 66
+http://66.160.192.241/showtv/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
@@ -431,12 +434,6 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", tv 8 89
 http://89.187.191.41/TV8-HD-TR/video.m3u8
-
-#EXTINF:0 group-title="Haber", TRT 1 izle
-https://izle.canlitvapp.com/trt1/index.m3u8
-
-#EXTINF:0 group-title="Haber", TRT 1 c1
-https://c1.fulltvizle.com/trt1/index.m3u8
 
 #EXTINF:0 group-title="Ulusal", TRT 1 95
 http://95.174.71.114/TR-TRT1/index.m3u8
@@ -468,8 +465,8 @@ http://cdn-tr.tivimivi.com/streams/122/master.m3u8
 #EXTINF:0 group-title="Ulusal", Now Tv tulix
 https://trn03.tulix.tv/gt-fox-turk-tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Ulusal", Now Tv yedek
-http://66.160.192.241/foxturk/index.m3u8
+#EXTINF:0 group-title="Ulusal", Now Tv yedek 66
+http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
