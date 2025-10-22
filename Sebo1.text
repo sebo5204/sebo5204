@@ -474,8 +474,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0 group-title="Haber", Sözcü TV Rec tv
 http://cdn-tr.tivimivi.com/streams/117/master.m3u8
 
-#EXTINF:0 group-title="Haber", CNN TURK
-http://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
+#EXTINF:0 group-title="Haber", CNN TURK 66
+http://66.160.192.241/cnnturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Haber", CNN TURK youtube
 https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
