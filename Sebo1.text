@@ -387,14 +387,11 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 #EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
 https://tv.arectv31.sbs/live/bm2.m3u8
 
-#EXTINF:1  tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D tivimivi
-http://cdn-tr.tivimivi.com/streams/113/master.m3u8
+#EXTINF:1  tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D live
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D 78
 http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
-
-#EXTINF:1 group-title="Ulusal", Kanal d tulix
-http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Ulusal", Kanal d izle
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
@@ -423,7 +420,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",SHOW TIVIMIVI
 http://cdn-tr.tivimivi.com/streams/109/master.m3u8
 
-#EXTINF:1 group-title="Ulusal" ,star tv tulix
+#EXTINF:1 group-title="Ulusal" ,star tv 66
 http://66.160.192.241/startvturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-title="Ulusal", STAR TV 95
@@ -444,8 +441,8 @@ http://66.160.192.241/trt1tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK ESDAI
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:1 group-title="Spor" , TRT 1 medya 
-https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1 group-title="Spor" , TRT 1 tivimivi
+http://cdn-tr.tivimivi.com/streams/105/master.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
