@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
-http://cdn-tr.tivimivi.com/streams/105/master.m3u8
+http://95.174.71.114/TR-TRT1/index.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
 http://cdn-tr.tivimivi.com/streams/121/master.m3u8
@@ -160,7 +160,7 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="Spor", TRT SPOR2 YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN SPOR HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
@@ -462,8 +462,8 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 #EXTINF:0 group-title="Ulusal", a Spor yedek
 http://cdn-tr.tivimivi.com/streams/122/master.m3u8
 
-#EXTINF:0 group-title="Ulusal", Now Tv tulix
-https://trn03.tulix.tv/gt-fox-turk-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Belgesel", TRT BELGESEL
+http://162.212.179.33:80/dvrfl05/gin-trtbelgesel/playlist.m3u8
 
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 66
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
