@@ -2,7 +2,7 @@
 
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
@@ -11,7 +11,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
 http://66.160.192.241/showtv/tracks-v1a1/mono.m3u8
@@ -23,7 +23,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
@@ -38,13 +38,13 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-name="HABER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="HABERTURK.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber", HABER TURK
-https://bloomberght-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Türkçe" tvg-country="TR" tvg-id="HABERGLOBAL.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber", HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Türkçe" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber", NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
 #EXTINF:-1 tvg-name="Ekol TV" tvg-language="Türkçe" tvg-ülke="TR" tvg-id="EkolTV.tr" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
