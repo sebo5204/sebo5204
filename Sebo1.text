@@ -25,7 +25,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://95.174.71.114/TR-FOX/index.m3u8
  
 #EXTINF:1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/index.m3u8
@@ -465,8 +465,8 @@ http://162.212.179.33:80/dvrfl05/gin-trtbelgesel/playlist.m3u8
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 66
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW Tivimivi
-http://cdn-tr.tivimivi.com/streams/108/master.m3u8
+#EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:0 group-title="Haber", Sözcü TV Rec tv
 http://cdn-tr.tivimivi.com/streams/117/master.m3u8
