@@ -34,7 +34,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/index.m3u8
 https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber", HABER TURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
@@ -49,7 +49,7 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK
-https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
