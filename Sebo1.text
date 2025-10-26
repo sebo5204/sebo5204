@@ -4,16 +4,16 @@
 https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
-http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
+http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
-http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 #EXTINF:1 tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -22,10 +22,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-http://95.174.71.114/TR-FOX/index.m3u8
+http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
  
 #EXTINF:1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/index.m3u8
@@ -473,21 +473,6 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 https://izle.canlitvapp.com/ahaber/index.m3u8
-
-#EXTINF:1 ,SHOW TV
-http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
-
-#EXTINF:1,TV 8
-http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
-
-#EXTINF:,ATV
-http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
-
-#EXTINF:,KANAL D
-http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
-
-#EXTINF:,STAR TV
-http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 #EXTINF:,TRT 1
 http://50.7.144.122:1935/live/trt1.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
