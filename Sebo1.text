@@ -473,3 +473,23 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 https://izle.canlitvapp.com/ahaber/index.m3u8
+
+#EXTINF:1 ,SHOW TV
+http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+#EXTINF:1,TV 8
+http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+#EXTINF:,ATV
+http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+#EXTINF:,KANAL D
+http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+#EXTINF:,STAR TV
+http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+#EXTINF:,TRT 1
+http://50.7.144.122:1935/live/trt1.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
+
+
