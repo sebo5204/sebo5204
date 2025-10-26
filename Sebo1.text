@@ -24,8 +24,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
-#EXTINF:-1 tvg-id="NowTV.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-http://95.174.71.114/TR-FOX/index.m3u8
+#EXTINF:-1 tvg-id="Nohttp://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159wTV.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
+
  
 #EXTINF:1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/index.m3u8
