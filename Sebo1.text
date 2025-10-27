@@ -435,6 +435,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 66
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Haber", NOW TV full izle
+https://c1.fulltvizle.com/fox/index.m3u8
+
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
