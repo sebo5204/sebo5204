@@ -402,8 +402,8 @@ http://95.174.71.114/TR-SHOW/index.m3u8
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:1 group-title="Ulusal" ,star tv 66
-http://66.160.192.241/startvturk/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="Ulusal" ,star tv full izle
+https://c1.fulltvizle.com/star/index.m3u8
 
 #EXTINF:1 group-title="Ulusal", STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
