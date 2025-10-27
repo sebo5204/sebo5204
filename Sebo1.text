@@ -13,7 +13,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
-http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
 #EXTINF:1 tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
