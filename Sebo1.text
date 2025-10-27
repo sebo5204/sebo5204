@@ -393,7 +393,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV Rec tv
 https://tv.arectv31.sbs/live/atv.m3u8
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV 89
+#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal",ATV TURKNET
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:0 group-title="Haber", Show tv 66
@@ -401,9 +401,6 @@ http://95.174.71.114/TR-SHOW/index.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-
-#EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",SHOW TIVIMIVI
-http://cdn-tr.tivimivi.com/streams/109/master.m3u8
 
 #EXTINF:1 group-title="Ulusal" ,star tv 66
 http://66.160.192.241/startvturk/tracks-v1a1/mono.m3u8
@@ -420,14 +417,8 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:0 group-title="Ulusal", TRT 1 95
 http://95.174.71.114/TR-TRT1/index.m3u8
 
-#EXTINF:0 group-title="Haber", TRT 1 66
-http://66.160.192.241/trt1tv/tracks-v1a1/mono.m3u8
-
 #EXTINF:1 group-title="Spor" , TRT 1 Medya
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:1 group-title="Spor" , TRT 1 tivimivi
-http://cdn-tr.tivimivi.com/streams/153/master.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -441,40 +432,22 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
 #EXTINF:0 group-title="Ulusal", Eşref Rüya 
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 
-#EXTINF:0 group-title="Ulusal", a Spor yedek
-http://cdn-tr.tivimivi.com/streams/122/master.m3u8
-
-#EXTINF:0 group-title="Belgesel", TRT BELGESEL
-http://162.212.179.33:80/dvrfl05/gin-trtbelgesel/playlist.m3u8
-
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 66
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:0 group-title="Haber", Sözcü TV Rec tv
-http://cdn-tr.tivimivi.com/streams/117/master.m3u8
-
 #EXTINF:0 group-title="Haber", CNN TURK 66
 http://66.160.192.241/cnnturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Haber", CNN TURK tivimivi
-http://cdn-tr.tivimivi.com/streams/114/master.m3u8
-
 #EXTINF:1 group-title="Haber", Ülke tv
 http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
-
-#EXTINF:1 group-title="haber", A HABER tivimivi
-http://cdn-tr.tivimivi.com/streams/123/master.m3u8
 
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 https://izle.canlitvapp.com/ahaber/index.m3u8
-
-#EXTINF:,TRT 1
-http://50.7.144.122:1935/live/trt1.stream/playlist.m3u8?hash=0589142382fb650f5e9569a490781159
 
 
