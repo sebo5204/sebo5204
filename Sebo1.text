@@ -405,7 +405,7 @@ http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:1 group-title="Ulusal" ,star tv 66
 http://66.160.192.241/startvturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 group-title="Ulusal", STAR TV 95
+#EXTINF:1 group-title="Ulusal", STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek
