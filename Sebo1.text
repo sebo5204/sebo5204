@@ -6,7 +6,7 @@ https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:1 tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
+#EXTINF:1 tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
