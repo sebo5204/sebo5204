@@ -9,7 +9,7 @@ http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
+#EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
