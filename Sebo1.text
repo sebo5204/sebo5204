@@ -64,7 +64,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/index.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="Haber",Akit TV
-https://akittv-live.ercdn.net/a7kittv/akittv_720p.m3u8
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
