@@ -136,7 +136,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_CN"tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇizgiFilm", CARTOON NETWORK TR
-http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
@@ -465,24 +465,24 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 https://c1.fulltvizle.com/ahaber/index.m3u8
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
-http://50.7.144.122:1935/live/showtv.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/showtv.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
-http://50.7.144.122:1935/live/tv8.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/tv8.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-http://50.7.144.122:1935/live/atv.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/atv.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-http://50.7.144.122:1935/live/kanald.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/kanald.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
-http://50.7.144.122:1935/live/startv.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/startv.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
-http://50.7.144.122:1935/live/trt1.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/trt1.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR"  tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
-http://50.7.144.122:1935/live/foxtv.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
+http://50.7.144.122:1935/live/foxtv.stream/master.m3u8?hash=7bd7bfeefa18c830b965d32f016ebdc1
 
 
