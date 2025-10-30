@@ -88,7 +88,7 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel", TRT BELGESEL
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="Eğlence", TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
