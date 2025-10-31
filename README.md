@@ -1,4 +1,4 @@
-## Merhaba orada 👋
+## Merhaba 👋
 
 <!--
 **sebo5204/sebo5204** bir ✨ _özel_ ✨ depodur çünkü onun README.md saygısız (bu dosya) GitHub profilinizde görünür.
