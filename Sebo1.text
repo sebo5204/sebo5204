@@ -180,7 +180,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik", Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik", NUMBER ONE TÜRK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Müzik", NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Müzik", 4 Turk Pop
