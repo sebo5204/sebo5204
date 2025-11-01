@@ -26,7 +26,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
-http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
+https://a.abdcev.workers.dev/live/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", ULKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
