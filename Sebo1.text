@@ -499,6 +499,6 @@ http://50.7.144.122:1935/live/trt1.stream/master.m3u8?hash=47b436fa76643cb083833
 http://50.7.144.122:1935/live/foxtv.stream/master.m3u8?hash=47b436fa76643cb083833520cad69093
 
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1250/playlist.m3u8
 
 
