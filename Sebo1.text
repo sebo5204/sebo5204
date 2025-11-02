@@ -484,7 +484,7 @@ http://50.7.144.122:1935/live/tv8.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1f
 http://50.7.144.122:1935/live/atv.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-http://50.7.144.122:1935/live/kanald.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kanal-d.m3u8
 
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
 http://50.7.144.122:1935/live/startv.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
