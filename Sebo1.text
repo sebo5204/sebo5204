@@ -345,6 +345,9 @@ https://bs.arectv31.sbs/static/pl3.m3u8
 #EXTINF:1 group-title="Spor" , BeIN SPORTS 
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/1
 
+#EXTINF:1 group-title="Spor", Bein sports 1 Selçuk spor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
+
 #EXTINF:1 group-title="Spor", Bein sports 1 xyz spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-1/playlist.m3u8
 
