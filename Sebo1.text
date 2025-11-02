@@ -376,10 +376,10 @@ https://bs.arectv33.sbs/static/bs4.m3u8
 https://bs.arectv31.sbs/static/bs5.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport Max 1 rec tv
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-max-1/playlist.m3u8
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-max-2/playlist.m3u8
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax2/playlist.m3u8
 
 #EXTINF:1  tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D live
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
