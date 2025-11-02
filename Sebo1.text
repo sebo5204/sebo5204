@@ -486,6 +486,9 @@ http://50.7.144.122:1935/live/trt1.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR"  tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
 http://50.7.144.122:1935/live/foxtv.stream/master.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
