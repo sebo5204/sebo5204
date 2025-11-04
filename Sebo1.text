@@ -429,8 +429,8 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:1 ,TV 8 full izle
 https://c1.fulltvizle.com/kanal8/index.m3u8
 
-#EXTINF:1,TRT 1 full izle
-https://c1.fulltvizle.com/trt1/index.m3u8
+#EXTINF:1,TRT 1 tivi mivi
+http://cdn-tr.tivimivi.com/streams/153/master.m3u8
 
 #EXTINF:0 group-title="Ulusal", TRT 1 95
 http://95.174.71.114/TR-TRT1/index.m3u8
