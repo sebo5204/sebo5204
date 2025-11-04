@@ -459,9 +459,6 @@ https://c1.fulltvizle.com/fox/index.m3u8
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:0 group-title="Haber", CNN TURK 66
-http://66.160.192.241/cnnturk/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 group-title="Haber", CNN TURK fulizle
 https://c1.fulltvizle.com/cnn/index.m3u8
 
@@ -470,6 +467,9 @@ http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK 
+http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 http://50.7.144.122:1935/live/ahaber.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
