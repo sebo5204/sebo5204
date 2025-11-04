@@ -468,6 +468,9 @@ http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
+http://50.7.144.122:1935/live/sozcutv.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK 
 http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
 
