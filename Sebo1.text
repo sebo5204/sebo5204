@@ -468,13 +468,16 @@ http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV yedek 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/sozcutv.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK 
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/ahaber.stream/playlist.m3u8?hash=47b436fa76643cb083833520cad69093
 
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-1.png",TRT 1
