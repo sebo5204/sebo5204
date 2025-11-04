@@ -328,19 +328,19 @@ https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 group-title="Spor",S SPORT
-https://bs.arectv33.sbs/static/ss11.m3u8
+https://bs.arectv31.sbs/static/ss11.m3u8
 
 #EXTINF:-1 group-title="Spor",S SPORT 2
-https://bs.arectv33.sbs/static/ss2.m3u8
+https://bs.arectv31.sbs/static/ss2.m3u8
 
 #EXTINF:0 group-title="Spor", S SPORT plus 1
-https://bs.arectv33.sbs/static/pl1.m3u8
+https://bs.arectv31.sbs/static/pl1.m3u8
 
 #EXTINF:0 group-title="Spor", S SPORT plus 2
 https://v.arectv30.sbs/static/pl2.m3u8
 
 #EXTINF:0 group-title="Spor", S SPORT plus 3
-https://bs.arectv31.sbs/static/pl3.m3u8
+https://bs.arectv33.sbs/static/pl3.m3u8
 
 #EXTINF:1 group-title="Spor" , BeIN SPORTS 
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/1
@@ -355,10 +355,10 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-1/playlist.m3u8
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/sbeinsports-1/playlist.m3u8
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor" , BeIN SPORTS 1 FHD REC TV
-https://bs.arectv33.sbs/static/bs11.m3u8
+https://v.arectv30.sbs/static/bs11.m3u8
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor" , BeIN SPORTS 1 rec tv
-https://bs.arectv33.sbs/static/bs1.m3u8
+https://bs.arectv31.sbs/static/bs1.m3u8
 
 #EXTINF:1 group-title="Spor", Bein sports 2 selcuk spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
@@ -367,10 +367,10 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3
 https://v.arectv30.sbs/static/bs2.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport 3 rec tv
-https://bs.arectv33.sbs/static/bs3.m3u8
+https://bs.arectv31.sbs/static/bs3.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport 4 rec tv
-https://bs.arectv33.sbs/static/bs4.m3u8
+https://bs.arectv31.sbs/static/bs4.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport 5 rec tv
 https://bs.arectv31.sbs/static/bs5.m3u8
