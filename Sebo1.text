@@ -472,7 +472,7 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/sozcutv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
-#EXTINF:0 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHABER" tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
+#EXTINF:0 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHABER" tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="CnnTurk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
@@ -492,7 +492,7 @@ http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",Star Tv
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",STAR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
@@ -500,11 +500,11 @@ http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=943fe66c94bfb6b44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id-"TV8 TR" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",tv8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id-"TV8.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NOWTV TR" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NOWTV.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
