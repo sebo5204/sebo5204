@@ -492,19 +492,19 @@ http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=b41928efc386e1fb5321
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",Star Tv
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Star.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",Star Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",Show Tv
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Show.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",Show Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv8.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",tv8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id-"TV8.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",tv8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="FoxTV.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="Now.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
