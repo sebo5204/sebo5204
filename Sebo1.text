@@ -496,7 +496,7 @@ http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=943fe66c94bfb6b44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",Show Tv
+#EXTINF:-1 tv-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",SHOW TR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
 
