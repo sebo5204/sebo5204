@@ -492,26 +492,26 @@ http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=b41928efc386e1fb5321
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",Star Tv
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",Star Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",Show Tv
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",Show Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",tv8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv8.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",tv8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="FoxTV.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=b41928efc386e1fb5321dfc8db8c4d60
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
