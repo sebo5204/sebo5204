@@ -470,43 +470,43 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/sozcutv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/sozcutv.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:0 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHABER" tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="CnnTurk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/cnnturk.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/ahaber.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/ahaber.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-1.png",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/trt1.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/trt1.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv.png",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/atv.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-d.png",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/kanald.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",STAR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/startv.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tv-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",SHOW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/showtv.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id-"TV8.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.png",TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/tv8.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NOWTV.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=943fe66c94bfb6b4408bfd8e77df0272
+http://50.7.144.122:1935/live/foxtv.stream/playlist.m3u8?hash=6bb6515f0d9f9c2ec22c1f5e69bb8e32
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
