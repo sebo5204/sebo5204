@@ -35,6 +35,7 @@ https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
+# ? https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber", HABER TURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
