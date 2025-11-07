@@ -13,7 +13,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:1 tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
-http://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
 #EXTINF:1 tvg-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -22,7 +22,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:1 tvg-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 TR
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW TR
 https://a.abdcev.workers.dev/live/index.m3u8
@@ -382,10 +382,7 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist
 #EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:1  tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D live
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
-
-#EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D turknet
+#EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TURKNET
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
@@ -394,23 +391,23 @@ http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
 #EXTINF:0 group-title="Ulusal" , ATV 116
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV tivimivi
-http://cdn-tr.tivimivi.com/streams/121/master.m3u8
-
-#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal",ATV TURKNET
+#EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="DAI",ATV TURKNET
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:0 group-title="Haber", Show tv 66
-http://95.174.71.114/TR-SHOW/index.m3u8
+#EXTINF:1  tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="DAI", KANAL D DAI
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
-#EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="DAI", SHOW DAI
+http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:1 group-title="Ulusal", STAR TV
+#EXTINF:1 group-title="DAI", STAR TV DAI
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", TV 8 yedek
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="DAI", TV 8 DAI
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+
+#EXTINF:1 group-title="DAI" , TRT 1 DAI
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", tv 8 89
 http://89.187.191.41/TV8-HD-TR/video.m3u8
@@ -420,9 +417,6 @@ http://95.174.71.114/TR-TRT1/index.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 Medya
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:1 group-title="Spor" , TRT 1 YEDEK
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK 89
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.m3u8
