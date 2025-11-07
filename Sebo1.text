@@ -388,14 +388,8 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D turknet
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 
-#EXTINF:1 group-title="Ulusal", Kanal d izle
-https://c1.fulltvizle.com/kanald/index.m3u8
-
 #EXTINF:0 group-title="Ulusal" , Kanal 7 yedek
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
-
-#EXTINF:0 group-title="Ulusal" , ATV fulizle
-https://c1.fulltvizle.com/aytv/index.m3u8
 
 #EXTINF:0 group-title="Ulusal" , ATV 116
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
@@ -406,17 +400,11 @@ http://cdn-tr.tivimivi.com/streams/121/master.m3u8
 #EXTINF:1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal",ATV TURKNET
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:1,SHOW TV full izle
-https://c1.fulltvizle.com/show/index.m3u8
-
 #EXTINF:0 group-title="Haber", Show tv 66
 http://95.174.71.114/TR-SHOW/index.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW YEDEK
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-
-#EXTINF:1 group-title="Ulusal" ,star tv full izle
-https://c1.fulltvizle.com/star/index.m3u8
 
 #EXTINF:1 group-title="Ulusal", STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
@@ -426,12 +414,6 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", tv 8 89
 http://89.187.191.41/TV8-HD-TR/video.m3u8
-
-#EXTINF:1 ,TV 8 full izle
-https://c1.fulltvizle.com/kanal8/index.m3u8
-
-#EXTINF:1,TRT 1 tivi mivi
-http://cdn-tr.tivimivi.com/streams/153/master.m3u8
 
 #EXTINF:0 group-title="Ulusal", TRT 1 95
 http://95.174.71.114/TR-TRT1/index.m3u8
@@ -468,6 +450,24 @@ http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
+
+#EXTINF:1 group-title="full izle",TRT 1 full izle
+https://c1.fulltvizle.com/trt1/index.m3u8
+
+#EXTINF:0 group-title="full izle" , ATV full izle
+https://c1.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:1 group-title="full izle", Kanal d full izle
+https://c1.fulltvizle.com/kanald/index.m3u8
+
+#EXTINF:1 group-title="full izle",SHOW TV full izle
+https://c1.fulltvizle.com/show/index.m3u8
+
+#EXTINF:1 group-title="full izle" ,star tv full izle
+https://c1.fulltvizle.com/star/index.m3u8
+
+#EXTINF:1 group-title="full izle" ,TV 8 full izle
+https://c1.fulltvizle.com/kanal8/index.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
