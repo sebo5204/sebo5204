@@ -436,9 +436,6 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 #EXTINF:0 group-title="Ulusal", Now Tv yedek 66
 http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Haber", NOW TV full izle
-https://c1.fulltvizle.com/fox/index.m3u8
-
 #EXTINF:1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
@@ -451,23 +448,26 @@ http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
-#EXTINF:1 group-title="full izle",TRT 1 full izle
+#EXTINF:1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" group-title="full izle",TRT 1 full izle
 https://c1.fulltvizle.com/trt1/index.m3u8
 
-#EXTINF:0 group-title="full izle" , ATV full izle
+#EXTINF:0 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" group-title="full izle" , ATV full izle
 https://c1.fulltvizle.com/aytv/index.m3u8
 
-#EXTINF:1 group-title="full izle", Kanal d full izle
+#EXTINF:1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" group-title="full izle", Kanal d full izle
 https://c1.fulltvizle.com/kanald/index.m3u8
 
-#EXTINF:1 group-title="full izle",SHOW TV full izle
+#EXTINF:1 tv-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" group-title="full izle",SHOW TV full izle
 https://c1.fulltvizle.com/show/index.m3u8
 
-#EXTINF:1 group-title="full izle" ,star tv full izle
+#EXTINF:1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" group-title="full izle" ,star tv full izle
 https://c1.fulltvizle.com/star/index.m3u8
 
-#EXTINF:1 group-title="full izle" ,TV 8 full izle
+#EXTINF:1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id-"TV8.tr" group-title="full izle" ,TV 8 full izle
 https://c1.fulltvizle.com/kanal8/index.m3u8
+
+#EXTINF:0 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NowTv.tr" group-title="full izle", NOW TV full izle
+https://c1.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -485,7 +485,7 @@ http://cdn-tr.tivimivi.com/streams/123/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://cdn-tr.tivimivi.com/streams/153/master.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv.png",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv.png",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://cdn-tr.tivimivi.com/streams/121/master.m3u8
 
@@ -505,7 +505,7 @@ http://cdn-tr.tivimivi.com/streams/109/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://cdn-tr.tivimivi.com/streams/107/master.m3u8
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NOWTV.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://cdn-tr.tivimivi.com/streams/108/master.m3u8
 
