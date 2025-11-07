@@ -495,7 +495,7 @@ http://cdn-tr.tivimivi.com/streams/113/master.m3u8
 
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.png",STAR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://cdn-tr.tivimivi.com/streams/1118/master.m3u8
+http://cdn-tr.tivimivi.com/streams/118/master.m3u8
 
 #EXTINF:-1 tv-name="SHOW TR" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.png",SHOW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
