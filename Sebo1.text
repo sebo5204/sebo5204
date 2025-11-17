@@ -82,7 +82,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Eğlence",GZT TV 
 https://mn-nl.mncdn.com/gzttv/gzttv/index.m3u8
