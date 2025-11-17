@@ -506,6 +506,6 @@ http://cdn-tr.tivimivi.com/streams/107/master.m3u8
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://cdn-tr.tivimivi.com/streams/108/master.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/taff-pictures.m3u8
 
 
