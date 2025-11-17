@@ -9,11 +9,20 @@ http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
 #EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+
 #EXTINF:1 tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
 #EXTINF:1 tvg-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -106,11 +115,17 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Eğlence",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Eğlence" ,isvicre tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3HD3KX/bikanal.png" group-title="Spor" ,Bİ 1! KANAL
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -244,9 +259,6 @@ https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/affcd564-54ac-45d2-a36d-897e865b563c.png" group-title="tryerel", Ordu altaş TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3HD3KX/bikanal.png" group-title="Spor" ,Bİ 1! KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png" group-title="Spor",SIFIR TV (1080p)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 
@@ -288,9 +300,6 @@ https://tv1.arectv30.sbs/live/bsturk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
 https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Sinema", Bein Movies Comedy
 https://tv1.arectv30.sbs/live/bscomedy.m3u8
@@ -342,9 +351,6 @@ https://v.arectv30.sbs/static/pl2.m3u8
 
 #EXTINF:0 group-title="Spor", S SPORT plus 3
 https://bs.arectv33.sbs/static/pl3.m3u8
-
-#EXTINF:1 group-title="Spor" , BeIN SPORTS 
-http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/1
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 Selçuk spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
@@ -502,14 +508,5 @@ http://cdn-tr.tivimivi.com/streams/107/master.m3u8
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tv-id="NowTv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://cdn-tr.tivimivi.com/streams/108/master.m3u8
-
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 
