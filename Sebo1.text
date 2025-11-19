@@ -352,6 +352,7 @@ https://v.arectv30.sbs/static/pl2.m3u8
 https://bs.arectv33.sbs/static/pl3.m3u8
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 Selçuk spor
+#EXTVLCOPT:http-referrer= https://www.selcuksportshd1825.xyz/
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 xyz spor
