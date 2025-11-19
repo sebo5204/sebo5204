@@ -369,8 +369,8 @@ https://v.arectv30.sbs/static/bs11.m3u8
 https://bs.arectv31.sbs/static/bs1.m3u8
 
 #EXTINF:1 group-title="Spor", Bein sports 2 selcuk spor
-#EXTVLCOPT:http-referrer= https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/sbeinsports-2/playlist.m3u8
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sports 2 rec tv
 https://v.arectv30.sbs/static/bs2.m3u8
