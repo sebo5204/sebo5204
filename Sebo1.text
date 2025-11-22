@@ -151,7 +151,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="ÇizgiFilm_CN"tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇizgiFilm", CARTOON NETWORK TR
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
