@@ -15,7 +15,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
-#EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal - Yurt Disi",STAR TR
+#EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="Ulusal - Yurt Disi" ,EURO STAR
