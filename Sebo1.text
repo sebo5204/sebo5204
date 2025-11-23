@@ -6,22 +6,25 @@ https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:1 tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Ulusal - Yurt Dısı" tvg-logo="https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png" tvg-url="https://www.atvavrupa.tv/",ATV Avrupa
+https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
+
 #EXTINF:1 tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TR
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
-#EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR TR
+#EXTINF:1 tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal - Yurt Disi",STAR TR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="Ulusal - Yurt Disi" ,EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
 #EXTINF:1 tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal", SHOW TR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="Ulusal - Yurt Disi",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
 #EXTINF:1 tvg-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", BEYAZ TV TR
