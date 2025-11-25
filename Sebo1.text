@@ -433,7 +433,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-2
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:1 group-title="DAI" , TRT 1 DAI
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?app=web
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal", tv 8 89
 http://89.187.191.41/TV8-HD-TR/video.m3u8
@@ -442,7 +442,7 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 http://95.174.71.114/TR-TRT1/index.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 Medya
-https://tv-trt1.medya.trt.cminika-cocuk_1440.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK 89
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.m3u8
