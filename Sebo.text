@@ -325,10 +325,10 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", S SPORT
-https://bs.arectv33.sbs/static/ss11.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Türkçe" tvg-country="TR" tvg-id="SSPORT.tr" tvg-id="SSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor", S SPORT 2
-https://bs.arectv33.sbs/static/ss2.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS 
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs11.m3u8
@@ -342,17 +342,17 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 4
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS (rec tv)
-https://bs.arectv33.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor" , beIN SPORTS 5
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",beIN SPORTS 2 rec tv
-https://bs.arectv33.sbs/static/bs2.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",beIN SPORTS MAX 1
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" , bein spor 3 rec tv
-https://bs.arectv33.sbs/static/bs3.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS" , beIN SPORTS MAX 2
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" , bein sports 4 rec tv
-https://bs.arectv33.sbs/static/bs4.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS" , CBC SPOR
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivecbcs.m3u8
 
 #EXTINF:-1 tvg-name="STAR TR" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",STAR Turknet
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv.m3u8
