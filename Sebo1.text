@@ -471,11 +471,11 @@ https://boncuktv.atakan1983.workers.dev/szctv
 
 #EXTINF:0 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHABER" tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="CnnTurk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber", CNN TURK yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://cdn-tr.tivimivi.com/streams/114/master.m3u8
+https://cdn.tecostream.xyz/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-http://cdn-tr.tivimivi.com/streams/123/master.m3u8
+https://cdn.tecostream.xyz/A_haber.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-1.png",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
