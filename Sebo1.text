@@ -508,3 +508,6 @@ https://boncuktv.atakan1983.workers.dev/tv8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://boncuktv.atakan1983.workers.dev/now
 
+#EXTINF:,Kardeşlerim
+https://streams.uzunmuhalefet.com/stream/7b73d3ce-fd52-4fc6-b18d-8a18dc54d0f8.m3u8
+
