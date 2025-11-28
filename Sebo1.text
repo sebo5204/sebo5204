@@ -460,10 +460,13 @@ http://66.160.192.241/foxturk/tracks-v1a1/mono.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:1 group-title="Haber", Ülke tv
-http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
+https://cdn.tecostream.xyz/Ulke_Tv.m3u8
 
 #EXTINF:0 group-title="Haber", a haber 95
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
+
+#EXTINF:-1 ,Sözcü TV
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV yedek 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
