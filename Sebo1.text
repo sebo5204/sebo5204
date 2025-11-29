@@ -512,20 +512,23 @@ https://boncuktv.atakan1983.workers.dev/tv8
 https://boncuktv.atakan1983.workers.dev/now
 
 #EXTINF:-1 tvg-id="UCEjjDxRBjrbZ65gABYBfROQ",Gumbull
-https://streams.uzunmuhalefet.com/stream/35cfa0bb-fc97-4418-9a27-d4822889cd60.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/gumball.m3u8
 
 #EXTINF:-1 tvg-id="UCwXYPDSqsv61XlpfCpcwWRA" ,Mucize Uğur Böceği
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/mucize.m3u8
 
+#EXTINF:-1 , Cennet Mahallesi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cennet-mahallesi.m3u8
+
 #EXTINF:-1 ,Alemin Kralı
-https://streams.uzunmuhalefet.com/stream/b949f33f-679b-429c-819c-16972d857f4b.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/alemin-krali.m3u8
 
 #EXTINF: tvg-id="UCZLOnq-F5zhTWNUDjcEYByw",Kardeşlerim
-https://streams.uzunmuhalefet.com/stream/7b73d3ce-fd52-4fc6-b18d-8a18dc54d0f8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kardeslerim.m3u8
 
 #EXTINF:-1 tvg-id="UCkRY4J8G__K8SEWZRLbke-Q",Muhteşem Yüzyıl
-https://streams.uzunmuhalefet.com/stream/9ed57c09-b79f-479f-8c07-0c42951e461b.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/muhtesem-yuzyil.m3u8
 
 #EXTINF:-1 tvg-id="UCHXdylbsyDVN4UO2Fv8CgmA",Muhteşem Yüzyıl Kösem
-https://streams.uzunmuhalefet.com/stream/9624fd19-6ce9-4526-8b0f-883f0cfcafb4.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/my-kosem.m3u8
 
