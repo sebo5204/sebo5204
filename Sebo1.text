@@ -120,7 +120,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema" ,Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/56ea3a85-6021-4ca7-8b03-177f19fd1ec8.png" tvg-url="",TAFF Pictures
+#EXTINF:-1 group-title="Eğlence" tvg-id="UCEz0vUNtEPYyxhM-xKhQ4EQ" tvg-logo="https://assets.uzunmuhalefet.com/logos/56ea3a85-6021-4ca7-8b03-177f19fd1ec8.png" tvg-url="",TAFF Pictures
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/taff-pictures.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Eğlence",Tivi Türk
