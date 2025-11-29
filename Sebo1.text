@@ -511,7 +511,7 @@ https://boncuktv.atakan1983.workers.dev/tv8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://boncuktv.atakan1983.workers.dev/now
 
-#EXTINF:-1 ,Gumbull
+#EXTINF:-1 tvg-id="UCEjjDxRBjrbZ65gABYBfROQ",Gumbull
 https://streams.uzunmuhalefet.com/stream/35cfa0bb-fc97-4418-9a27-d4822889cd60.m3u8
 
 #EXTINF:-1 ,Mucize Uğur Böceği
