@@ -367,9 +367,8 @@ https://bs.arectv33.sbs/static/pl3.m3u8
 #EXTVLCOPT:http-referrer= https://www.selcuksportshd555d053bb8.xyz/
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 xyz spor
-#EXTVLCOPT:http-referrer= https://www.xyzsports-bf6054c76b65.xyz/
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-1/playlist.m3u8
+#EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor", Bein sports 1 be spor
 #EXTVLCOPT:http-referrer= https://www.sporcafe-782a1a67028f.xyz/
@@ -381,35 +380,35 @@ https://v.arectv30.sbs/static/bs11.m3u8
 #EXTINF:1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" group-title="Spor" , BeIN SPORTS 1 rec tv
 https://bs.arectv31.sbs/static/bs1.m3u8
 
-#EXTINF:1 group-title="Spor", Bein sports 2 selcuk spor
-#EXTVLCOPT:http-referrer= https://www.selcuksportshd555d053bb8.xyz
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:1 group-title="Spor", Bein sports 2 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sports 2 rec tv
 https://v.arectv30.sbs/static/bs2.m3u8
 
-#EXTINF:1 group-title="Spor", Bein sports 3 selcuk spor
-#EXTVLCOPT:http-referrer= https://www.selcuksportshd555d053bb8.xyz
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:1 group-title="Spor", Bein sports 3 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport 3 rec tv
 https://bs.arectv31.sbs/static/bs3.m3u8
 
-#EXTINF:1 group-title="Spor", Bein sports 4 selcuk spor
-#EXTVLCOPT:http-referrer= https://www.selcuksportshd555d053bb8.xyz
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:1 group-title="Spor", Bein sports 4 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport 4 rec tv
 https://bs.arectv31.sbs/static/bs4.m3u8
 
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="srby Bein Sports 1 HD",Bein Sports 5 HD
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
+
 #EXTINF:1 group-title="Spor", Bein Sport 5 rec tv
 https://bs.arectv31.sbs/static/bs5.m3u8
 
-#EXTINF:1 group-title="Spor", Bein Sport Max 1 rec tv
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/ssportsmax-1/playlist.m3u8
+#EXTINF:1 group-title="Spor", Bein Sport Max 1 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
-#EXTINF:0 group-title="Spor", Bein Sport Max 2 rec tv
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/sbeinsportsmax-2/playlist.m3u8
+#EXTINF:0 group-title="Spor", Bein Sport Max 2 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TURKNET
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
