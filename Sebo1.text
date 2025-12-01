@@ -304,13 +304,19 @@ https://tv1.arectv30.sbs/live/history.m3u8
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
 #EXTINF:-1 group-title="Sinema",Bein Series 1
-https://ds.ayakkabiparti.lol/bsseries1/index.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bsseries1/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png" group-title="Sinema",Bein Movies Turk
-https://ds.ayakkabiparti.lol/bsturk/index.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bsturk/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
-https://ds.ayakkabiparti.lol/mvturk/index.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/mvturk/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Sinema", Bein Movies Comedy
 https://tv1.arectv30.sbs/live/bscomedy.m3u8
@@ -405,10 +411,14 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
 https://bs.arectv31.sbs/static/bs5.m3u8
 
 #EXTINF:1 group-title="Spor", Bein Sport Max 1 
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bm1/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:0 group-title="Spor", Bein Sport Max 2 
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bm2/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal", KANAL D TURKNET
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
