@@ -295,13 +295,19 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel" , BBC
-https://tv1.arectv30.sbs/live/bbc.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabipartBelgesebc/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Belgesel" , History
-https://tv1.arectv30.sbs/live/history.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/history/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Belgesel" , Discovery
-https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/discovery/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Sinema",Bein Series 1
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -319,25 +325,37 @@ https://ds.ayakkabiparti.lol/bsturk/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=
 https://ds.ayakkabiparti.lol/mvturk/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Sinema", Bein Movies Comedy
-https://tv1.arectv30.sbs/live/bscomedy.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bscomedy/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Spor", Bein Movies Family
-https://tv1.arectv30.sbs/live/bsfamily.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bsfamily/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
-https://tv1.arectv30.sbs/live/box1.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/box1/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Beinbox Office 3
-https://tv1.arectv30.sbs/live/box3.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/box3/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Sinema",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies premiere
-https://tv1.arectv30.sbs/live/bspremier1.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bspremier1/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
-https://tv1.arectv30.sbs/live/bsstars.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ds.ayakkabiparti.lol/bsstars/index.m3u8?token=bPbb18ROR2S7kO_uqyJjxw&tms=1764637117
 
 #EXTINF:-1 group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
